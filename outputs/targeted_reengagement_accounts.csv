@@ -1,0 +1,5 @@
+account_id,account_name,region,segment,arr_usd,jan_feb_monthly_events,apr_jun_monthly_events,usage_ratio_post_vs_pre,health_score,renewal_risk,days_to_contract_event,next_contract_event_date
+A1362,Juniper Systems SA,AMER,Enterprise,215048.28,157.0,122.33333333333333,0.7791932059447982,62.3,Medium,6,2026-07-06
+A1221,Tessera Networks Inc,AMER,Enterprise,185638.8505391,353.5,215.33333333333334,0.6091466289486092,49.9,Medium,58,2026-08-27
+A1212,Harrow Analytics LLC,AMER,Mid-Market,73997.29,147.5,113.33333333333333,0.7683615819209039,35.2,High,72,2026-09-10
+A1074,Vertex Systems Pte Ltd,EMEA,Mid-Market,48048.269337879996,175.0,138.33333333333334,0.7904761904761906,23.9,High,71,2026-09-09

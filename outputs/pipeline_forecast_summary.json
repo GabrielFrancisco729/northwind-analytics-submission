@@ -1,0 +1,18 @@
+{
+  "artifact": "Q3 2026 growth bookings forecast",
+  "current_open_growth_pipeline_usd": 16978395.7,
+  "forecast_expected_usd": 2411806.34,
+  "forecast_p10_usd": 1659361.86,
+  "forecast_p50_usd": 2374228.61,
+  "forecast_p90_usd": 3218422.44,
+  "holdout": "2026-03-31 snapshot -> next 92 days",
+  "holdout_auc": 0.737,
+  "holdout_average_precision": 0.57,
+  "holdout_brier": 0.154,
+  "holdout_expected_bookings_usd": 2975711.28,
+  "holdout_actual_bookings_usd": 3998891.95,
+  "holdout_error_pct": -25.6,
+  "training_rows": 1146,
+  "holdout_rows": 163,
+  "current_scored_opportunities": 144
+}

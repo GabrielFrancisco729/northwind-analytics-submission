@@ -1,0 +1,12 @@
+{
+  "pre_incident_daily_events": 2031.0,
+  "incident_daily_events": 304.3,
+  "post_incident_daily_events": 2066.4,
+  "estimated_capture_loss_pct": 85.1,
+  "estimated_missing_events_mar10_mar31": 38378,
+  "jan_feb_daily_events": 2014.7,
+  "apr_jun_daily_events": 2083.0,
+  "apr_jun_vs_jan_feb_pct": 3.4,
+  "targeted_accounts": 4,
+  "targeted_arr_usd": 522732.69
+}
