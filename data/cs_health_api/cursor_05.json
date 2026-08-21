@@ -1,0 +1,6 @@
+{
+ "error": "rate_limited",
+ "status": 429,
+ "retry_after_seconds": 2,
+ "retry_url": "cursor_05_retry.json"
+}

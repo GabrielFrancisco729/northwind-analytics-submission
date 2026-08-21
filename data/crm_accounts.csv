@@ -1,0 +1,457 @@
+account_id,account_name,domain,region,segment,industry,owner_user_id,created_at,is_deleted,parent_account_id,billing_currency
+A1401,Eastgate Partners Inc,eastgatepartners.example.com,EMEA,SMB,Payments,U223,2025-10-14 00:00:00,False,,BRL
+A1055,Granite Securities Ltd,granitesecurities.example.com,LATAM,Mid-Market,Government,U208,2024-09-28 00:00:00,False,,BRL
+A1021,Pinnacle Trust SA,pinnacletrust.example.com,,SMB,Fintech,U209,2025-09-12 00:00:00,False,,BRL
+A1317,Norsk Bancorp PLC,norskbancorp.example.com,LATAM,Public Sector,Payments,U206,2024-07-16 00:00:00,False,,SGD
+A1096,Dovetail Networks SA,dovetailnetworks.example.com,,Mid-Market,Consulting,U212,2025-09-10 00:00:00,False,,USD
+A1202,Inlet Exchange Co,inletexchange.example.com,EMEA,Public Sector,Insurance,U201,2023-10-11 00:00:00,False,,USD
+A1004,Inlet Securities Inc,inletsecurities.example.com,,Mid-Market,Consulting,U217,2024-12-26 00:00:00,False,,BRL
+A1063,Vertex Capital Co,vertexcapital.example.com,APAC,Mid-Market,Financial Services,U217,2025-08-02 00:00:00,False,,BRL
+A1365,Vertex Capital Inc,vertexcapital.example.com,APAC,SMB,Fintech,U207,2025-08-16 00:00:00,False,,GBP
+A9014,Sable Advisors SA,sableadvisors.example.com,AMER,Public Sector,Financial Services,U213,2024-08-03 00:00:00,True,,USD
+A1251,Juniper Group Co,junipergroup.example.com,EMEA,SMB,Fintech,U218,2025-10-28 00:00:00,False,,GBP
+A1184,Northwind Securities PLC,northwindsecurities.example.com,EMEA,Enterprise,Crypto Native,U208,2023-09-06 00:00:00,False,,USD
+A1235,Bluewater Systems LLC,bluewatersystems.example.com,LATAM,SMB,Fintech,U215,2023-12-22 00:00:00,False,,BRL
+A1059,Halcyon Analytics Ltd,halcyonanalytics.example.com,,Enterprise,Insurance,U211,2023-10-11 00:00:00,False,,USD
+A1179,Thorne Partners SA,thornepartners.example.com,EMEA,Enterprise,Government,U204,2025-01-01 00:00:00,False,,USD
+A1194,Riverbend Holdings Ltd,riverbendholdings.example.com,AMER,Mid-Market,Fintech,U217,2026-04-20 00:00:00,False,,USD
+A1299,Norsk Partners SA,norskpartners.example.com,AMER,Mid-Market,Financial Services,U216,2024-06-28 00:00:00,False,,EUR
+A1386,Cobalt Digital Pte Ltd,cobaltdigital.example.com,APAC,SMB,Fintech,U216,2026-01-04 00:00:00,False,,GBP
+A1088,Lattice Labs Pte Ltd,latticelabs.example.com,AMER,Mid-Market,Government,U223,2026-03-17 00:00:00,False,,EUR
+A1069,Lattice Networks LLC,latticenetworks.example.com,AMER,Mid-Market,Insurance,U219,2025-07-25 00:00:00,False,,USD
+A1101,Riverbend Analytics GmbH,riverbendanalytics.example.com,EMEA,Enterprise,Government,U205,2025-02-15 00:00:00,False,,GBP
+A9007,Sable Labs Inc,sablelabs.example.com,LATAM,Mid-Market,Financial Services,U217,2023-04-26 00:00:00,True,,BRL
+A1014,Quarry Holdings PLC,quarryholdings.example.com,AMER,SMB,Insurance,U210,2025-03-02 00:00:00,False,,SGD
+A1323,Tessera Labs Co,tesseralabs.example.com,EMEA,,Fintech,U215,2023-05-28 00:00:00,False,,SGD
+A1354,Eastgate Analytics Ltd,eastgateanalytics.example.com,EMEA,SMB,Gaming,U207,2024-06-17 00:00:00,False,,SGD
+A1273,Fairlane Financial PLC,fairlanefinancial.example.com,,Mid-Market,Payments,U200,2025-07-23 00:00:00,False,,USD
+A1136,Fairlane Securities GmbH,fairlanesecurities.example.com,EMEA,SMB,Insurance,U222,2023-09-22 00:00:00,False,,USD
+A1124,Quarry Exchange SA,quarryexchange.example.com,AMER,Mid-Market,Consulting,U214,2024-04-18 00:00:00,False,,USD
+A1126,Lattice Digital Ltd,latticedigital.example.com,EMEA,Mid-Market,Gaming,U221,2024-06-16 00:00:00,False,,USD
+A1173,Lattice Payments Co,latticepayments.example.com,AMER,Mid-Market,Crypto Native,U219,2023-04-16 00:00:00,False,,USD
+A1162,Lattice Group GmbH,latticegroup.example.com,AMER,Enterprise,Fintech,U205,2025-02-11 00:00:00,False,,BRL
+A1033,Ironclad Partners Co,ironcladpartners.example.com,AMER,Mid-Market,Crypto Native,U223,2025-07-19 00:00:00,False,,USD
+A9003,Bluewater Systems Ltd,bluewatersystems.example.com,LATAM,Mid-Market,Financial Services,U202,2025-11-14 00:00:00,True,,USD
+A1237,Caldera Partners Co,calderapartners.example.com,AMER,Enterprise,Gaming,U212,2023-01-15 00:00:00,False,,SGD
+A1040,Lattice Holdings Pte Ltd,latticeholdings.example.com,LATAM,Mid-Market,Payments,U219,2024-02-12 00:00:00,False,,USD
+A1348,Stanhope Custody LLC,stanhopecustody.example.com,AMER,Enterprise,Consulting,U203,2024-04-06 00:00:00,False,,USD
+A1072,Keystone Exchange GmbH,keystoneexchange.example.com,APAC,SMB,Government,U213,2023-06-09 00:00:00,False,,GBP
+A1266,Vertex Capital Ltd,vertexcapital.example.com,AMER,Mid-Market,Government,U220,2024-04-15 00:00:00,False,,USD
+A1291,Ironclad Financial Pte Ltd,ironcladfinancial.example.com,LATAM,SMB,Crypto Native,U213,2024-01-24 00:00:00,False,,USD
+A1079,Lumen Trust Ltd,lumentrust.example.com,AMER,Mid-Market,Government,U213,2025-07-18 00:00:00,False,,USD
+A1175,Orbit Advisors GmbH,orbitadvisors.example.com,EMEA,SMB,Fintech,U206,2026-01-17 00:00:00,False,,USD
+A1388,Cobalt Financial Pte Ltd,cobaltfinancial.example.com,AMER,Public Sector,Government,U216,2024-01-15 00:00:00,False,,EUR
+A1039,Norsk Partners Co,norskpartners.example.com,AMER,Mid-Market,Crypto Native,U207,2024-08-23 00:00:00,False,,USD
+A1130,Stanhope Capital SA,stanhopecapital.example.com,EMEA,Public Sector,Fintech,U219,2025-12-07 00:00:00,False,,USD
+A1258,Eastgate Financial Co,eastgatefinancial.example.com,APAC,SMB,Government,U207,2025-09-03 00:00:00,False,,USD
+A1134,Harrow Ventures SA,harrowventures.example.com,AMER,Mid-Market,Financial Services,U218,2024-05-06 00:00:00,False,,EUR
+A1416,Umbra Bancorp GmbH,umbrabancorp.example.com,APAC,Mid-Market,Consulting,U203,2022-07-13 00:00:00,False,A1062,SGD
+A1084,Eastgate Financial GmbH,eastgatefinancial.example.com,EMEA,SMB,Consulting,U217,2022-09-20 00:00:00,False,,USD
+A1356,Eastgate Bancorp Ltd,eastgatebancorp.example.com,AMER,Enterprise,Crypto Native,U208,2024-02-25 00:00:00,False,,BRL
+A1036,Cobalt Partners Pte Ltd,cobaltpartners.example.com,AMER,Mid-Market,Crypto Native,U208,2024-12-29 00:00:00,False,,EUR
+A1082,Keystone Ventures GmbH,keystoneventures.example.com,AMER,Mid-Market,Payments,U216,2025-07-21 00:00:00,False,,BRL
+A9008,Redmond Labs GmbH,redmondlabs.example.com,EMEA,Public Sector,Gaming,U218,2023-01-19 00:00:00,True,,USD
+A1091,Sable Group Inc,sablegroup.example.com,APAC,Enterprise,Payments,U211,2023-08-05 00:00:00,False,,EUR
+A1204,Ironclad Trust GmbH,ironcladtrust.example.com,APAC,Mid-Market,Fintech,U203,2026-03-14 00:00:00,False,,USD
+A9000,Halcyon Holdings Co,halcyonholdings.example.com,APAC,SMB,Payments,U201,2024-11-19 00:00:00,True,,USD
+A1037,Cobalt Group LLC,cobaltgroup.example.com,AMER,Mid-Market,Consulting,U215,2026-04-09 00:00:00,False,,USD
+A1188,Stanhope Holdings Inc,stanhopeholdings.example.com,AMER,Enterprise,Crypto Native,U217,2025-12-25 00:00:00,False,A1036,USD
+A1384,Lumen Financial Pte Ltd,lumenfinancial.example.com,EMEA,Enterprise,Payments,U216,2025-11-27 00:00:00,False,,USD
+A1100,Fairlane Trust LLC,fairlanetrust.example.com,APAC,Mid-Market,Payments,U205,2024-09-19 00:00:00,False,,USD
+A1337,Harrow Capital Pte Ltd,harrowcapital.example.com,APAC,Public Sector,Government,U205,2023-04-28 00:00:00,False,,USD
+A1105,Ardent Holdings Pte Ltd,ardentholdings.example.com,APAC,Public Sector,Fintech,U206,2025-11-12 00:00:00,False,,USD
+A1227,Umbra Analytics Inc,umbraanalytics.example.com,AMER,Mid-Market,Crypto Native,U216,2023-04-03 00:00:00,False,,USD
+A1329,Cobalt Securities SA,cobaltsecurities.example.com,APAC,Public Sector,Payments,U208,2023-01-28 00:00:00,False,,USD
+A9012,Inlet Partners Inc,inletpartners.example.com,AMER,Mid-Market,Consulting,U218,2024-09-03 00:00:00,True,,USD
+A1034,Riverbend Labs GmbH,riverbendlabs.example.com,LATAM,Mid-Market,Payments,U216,2025-12-19 00:00:00,False,,USD
+A9009,Norsk Holdings Inc,norskholdings.example.com,APAC,Mid-Market,Crypto Native,U223,2024-02-09 00:00:00,True,,GBP
+A1035,Fairlane Capital LLC,fairlanecapital.example.com,LATAM,Mid-Market,Financial Services,U204,2023-09-08 00:00:00,False,,USD
+A1306,Marrow Exchange Inc,marrowexchange.example.com,AMER,Public Sector,Insurance,U208,2023-07-10 00:00:00,False,,USD
+A9600,AURIGA LABS LIMITED,aurigalabs.example.com,AMER,SMB,Consulting,U213,2023-07-18 00:00:00,False,,USD
+A1274,Tessera Exchange LLC,tesseraexchange.example.com,EMEA,Public Sector,Fintech,U214,2024-05-28 00:00:00,False,,EUR
+A1226,Dovetail Advisors Pte Ltd,dovetailadvisors.example.com,LATAM,Mid-Market,Insurance,U214,2026-02-13 00:00:00,False,,BRL
+A1326,Beltway Payments Inc,beltwaypayments.example.com,EMEA,Enterprise,Consulting,U207,2025-09-23 00:00:00,False,,USD
+A1389,Inlet Partners Inc,inletpartners.example.com,AMER,Mid-Market,Consulting,U218,2024-09-03 00:00:00,False,,USD
+A1167,Halcyon Digital GmbH,halcyondigital.example.com,AMER,Mid-Market,Crypto Native,U223,2024-02-20 00:00:00,False,,USD
+A1393,Stanhope Group Co,stanhopegroup.example.com,,,Financial Services,U217,2023-03-25 00:00:00,False,,USD
+A1419,Vertex Labs PLC,vertexlabs.example.com,LATAM,SMB,Consulting,U219,2025-05-27 00:00:00,False,,BRL
+A1239,Vertex Trust Pte Ltd,vertextrust.example.com,EMEA,Enterprise,Financial Services,U207,2023-05-26 00:00:00,False,,USD
+A1371,Palisade Systems Inc,palisadesystems.example.com,AMER,Mid-Market,Payments,U210,2026-01-15 00:00:00,False,,USD
+A1325,Meridian Securities LLC,meridiansecurities.example.com,AMER,Enterprise,Insurance,U215,2025-02-15 00:00:00,False,,USD
+A1309,Dovetail Digital Pte Ltd,dovetaildigital.example.com,,SMB,Crypto Native,U201,2023-01-19 00:00:00,False,,USD
+A1292,Inlet Group GmbH,inletgroup.example.com,AMER,Public Sector,Gaming,U205,2024-07-11 00:00:00,False,,GBP
+A1056,Ironclad Payments Inc,ironcladpayments.example.com,APAC,Enterprise,Crypto Native,U206,2023-12-27 00:00:00,False,,USD
+A1303,Auriga Capital Ltd,aurigacapital.example.com,AMER,Mid-Market,Financial Services,U207,2022-11-19 00:00:00,False,,USD
+A1327,Palisade Ventures LLC,palisadeventures.example.com,AMER,SMB,Government,U209,2024-07-28 00:00:00,False,,USD
+A1137,Lumen Digital Inc,lumendigital.example.com,APAC,Enterprise,Fintech,U223,2023-10-07 00:00:00,False,,USD
+A1199,Keystone Partners SA,keystonepartners.example.com,AMER,Mid-Market,Fintech,U207,2023-01-29 00:00:00,False,,BRL
+A1408,Ironclad Networks PLC,ironcladnetworks.example.com,EMEA,SMB,Crypto Native,U223,2024-12-05 00:00:00,False,,GBP
+A1332,Pinnacle Capital Co,pinnaclecapital.example.com,APAC,Public Sector,Payments,U203,2024-08-11 00:00:00,False,,USD
+A1404,Solstice Analytics Ltd,solsticeanalytics.example.com,AMER,Enterprise,Gaming,U214,2024-12-27 00:00:00,False,,USD
+A1043,Marrow Digital PLC,marrowdigital.example.com,APAC,SMB,Payments,U202,2023-02-08 00:00:00,False,,EUR
+A1319,Fairlane Securities PLC,fairlanesecurities.example.com,LATAM,Enterprise,Fintech,U201,2023-05-13 00:00:00,False,,USD
+A1345,Redmond Custody Pte Ltd,redmondcustody.example.com,AMER,Mid-Market,Gaming,U206,2023-12-02 00:00:00,False,,USD
+A1061,Lattice Securities Inc,latticesecurities.example.com,AMER,SMB,Payments,U206,2025-07-03 00:00:00,False,,USD
+A1183,Auriga Networks SA,auriganetworks.example.com,AMER,,Crypto Native,U216,2022-09-09 00:00:00,False,,GBP
+A1090,Inlet Analytics Inc,inletanalytics.example.com,APAC,SMB,Government,U207,2026-03-07 00:00:00,False,,USD
+A1216,Ironclad Ventures Pte Ltd,ironcladventures.example.com,APAC,Enterprise,Government,U208,2025-01-27 00:00:00,False,,BRL
+A1070,Ardent Partners LLC,ardentpartners.example.com,LATAM,Mid-Market,Financial Services,U215,2022-12-25 00:00:00,False,,USD
+A1279,Sable Ventures Co,sableventures.example.com,AMER,Mid-Market,Financial Services,U207,2024-12-07 00:00:00,False,,USD
+A1113,Riverbend Trust LLC,riverbendtrust.example.com,EMEA,Mid-Market,Financial Services,U214,2025-04-27 00:00:00,False,,SGD
+A1054,Granite Custody Inc,granitecustody.example.com,,Enterprise,Payments,U213,2023-11-05 00:00:00,False,,SGD
+A1044,Norsk Group GmbH,norskgroup.example.com,EMEA,Mid-Market,Payments,U206,2023-07-21 00:00:00,False,,USD
+A1318,Halcyon Labs Inc,halcyonlabs.example.com,AMER,SMB,Fintech,U209,2023-11-21 00:00:00,False,,SGD
+A1062,Solstice Systems Inc,solsticesystems.example.com,,Mid-Market,Insurance,U217,2024-05-21 00:00:00,False,,USD
+A1283,Caldera Securities PLC,calderasecurities.example.com,APAC,SMB,Gaming,U221,2026-01-15 00:00:00,False,,USD
+A1209,Meridian Payments Inc,meridianpayments.example.com,,Mid-Market,Financial Services,U216,2026-05-18 00:00:00,False,,GBP
+A9015,Beltway Ventures Pte Ltd,beltwayventures.example.com,AMER,Mid-Market,Crypto Native,U200,2025-07-22 00:00:00,True,,USD
+A1399,Westford Advisors Ltd,westfordadvisors.example.com,LATAM,SMB,Insurance,U206,2024-10-17 00:00:00,False,,USD
+A1247,Lumen Analytics Co,lumenanalytics.example.com,EMEA,Mid-Market,Gaming,U217,2023-08-02 00:00:00,False,,SGD
+A1281,Norsk Trust Pte Ltd,norsktrust.example.com,EMEA,Public Sector,Payments,U222,2023-10-01 00:00:00,False,,BRL
+A1417,Lumen Holdings Ltd,lumenholdings.example.com,EMEA,Public Sector,Fintech,U208,2026-02-03 00:00:00,False,A1080,USD
+A1045,Solstice Financial GmbH,solsticefinancial.example.com,APAC,Mid-Market,Gaming,U210,2025-08-24 00:00:00,False,,USD
+A1311,Cobalt Financial Inc,cobaltfinancial.example.com,LATAM,Enterprise,Gaming,U214,2024-09-19 00:00:00,False,,USD
+A1406,Auriga Payments Pte Ltd,aurigapayments.example.com,,Public Sector,Consulting,U205,2026-05-01 00:00:00,False,,EUR
+A1022,Orbit Trust Co,orbittrust.example.com,EMEA,SMB,Insurance,U220,2023-10-25 00:00:00,False,,EUR
+A1270,Beltway Bancorp Co,beltwaybancorp.example.com,EMEA,Enterprise,Insurance,U201,2023-11-30 00:00:00,False,A1012,SGD
+A1195,Auriga Securities Inc,aurigasecurities.example.com,,Enterprise,Fintech,U211,2025-09-27 00:00:00,False,,USD
+A1272,Orbit Networks Inc,orbitnetworks.example.com,EMEA,SMB,Government,U217,2024-11-29 00:00:00,False,,USD
+A1238,Quarry Networks PLC,quarrynetworks.example.com,AMER,SMB,Government,U201,2023-04-04 00:00:00,False,,USD
+A1358,Palisade Partners Co,palisadepartners.example.com,EMEA,Enterprise,Fintech,U217,2025-04-30 00:00:00,False,,BRL
+A1256,Palisade Payments Pte Ltd,palisadepayments.example.com,AMER,Enterprise,Fintech,U214,2025-02-11 00:00:00,False,,BRL
+A1336,Northwind Capital PLC,northwindcapital.example.com,AMER,SMB,Insurance,U209,2025-05-28 00:00:00,False,,SGD
+A1048,Umbra Labs LLC,umbralabs.example.com,AMER,Mid-Market,Insurance,U201,2024-03-07 00:00:00,False,,USD
+A1171,Inlet Exchange LLC,inletexchange.example.com,APAC,Mid-Market,Insurance,U206,2024-08-30 00:00:00,False,,USD
+A1370,Beltway Capital GmbH,beltwaycapital.example.com,EMEA,,Insurance,U220,2025-04-09 00:00:00,False,,USD
+A1143,Granite Advisors GmbH,graniteadvisors.example.com,LATAM,Public Sector,Gaming,U211,2025-01-31 00:00:00,False,,USD
+A1316,Pinnacle Payments PLC,pinnaclepayments.example.com,EMEA,Mid-Market,Financial Services,U222,2022-10-05 00:00:00,False,A1007,USD
+A1031,Gilder Financial Co,gilderfinancial.example.com,,Mid-Market,Government,U203,2024-05-11 00:00:00,False,,GBP
+A1351,Juniper Trust Co,junipertrust.example.com,,Enterprise,Crypto Native,U203,2025-03-11 00:00:00,False,,EUR
+A1347,Juniper Partners LLC,juniperpartners.example.com,APAC,Enterprise,Insurance,U217,2024-07-11 00:00:00,False,,USD
+A1131,Norsk Holdings GmbH,norskholdings.example.com,AMER,Enterprise,Government,U207,2025-12-23 00:00:00,False,,USD
+A1269,Granite Custody PLC,granitecustody.example.com,AMER,Enterprise,Financial Services,U208,2026-01-02 00:00:00,False,,EUR
+A1139,Granite Holdings SA,graniteholdings.example.com,,Mid-Market,Crypto Native,U209,2024-03-26 00:00:00,False,,EUR
+A1094,Solstice Networks LLC,solsticenetworks.example.com,APAC,Enterprise,Financial Services,U206,2025-01-25 00:00:00,False,,USD
+A1242,Tessera Advisors SA,tesseraadvisors.example.com,EMEA,SMB,Insurance,U209,2025-11-21 00:00:00,False,,GBP
+A1379,Ardent Ventures PLC,ardentventures.example.com,AMER,Enterprise,Crypto Native,U203,2025-08-28 00:00:00,False,,USD
+A1411,Harrow Exchange LLC,harrowexchange.example.com,LATAM,SMB,Crypto Native,U202,2025-03-03 00:00:00,False,,USD
+A1397,Gilder Exchange Co,gilderexchange.example.com,APAC,SMB,Gaming,U200,2024-04-12 00:00:00,False,,USD
+A1215,Harrow Partners Pte Ltd,harrowpartners.example.com,EMEA,Public Sector,Government,U223,2024-12-13 00:00:00,False,,USD
+A1390,Cobalt Labs LLC,cobaltlabs.example.com,APAC,Mid-Market,Insurance,U205,2024-06-18 00:00:00,False,,GBP
+A1032,Bluewater Ventures PLC,bluewaterventures.example.com,AMER,Mid-Market,Payments,U207,2025-04-01 00:00:00,False,,USD
+A9503,Internal Test - Finance,northwind-example.com,AMER,SMB,Consulting,U200,2024-05-02 10:00:00,False,,USD
+A1320,Beltway Ventures Pte Ltd,beltwayventures.example.com,AMER,,Crypto Native,U200,2025-07-22 00:00:00,False,,USD
+A1135,Harrow Custody Pte Ltd,harrowcustody.example.com,EMEA,,Fintech,U214,2025-07-30 00:00:00,False,,GBP
+A1289,Stanhope Networks GmbH,stanhopenetworks.example.com,EMEA,SMB,Financial Services,U201,2023-05-04 00:00:00,False,,GBP
+A1114,Zenith Ventures Inc,zenithventures.example.com,AMER,Enterprise,Crypto Native,U215,2024-03-28 00:00:00,False,,USD
+A1207,Keystone Capital PLC,keystonecapital.example.com,AMER,SMB,Crypto Native,U202,2025-03-27 00:00:00,False,,USD
+A1229,Marrow Holdings Inc,marrowholdings.example.com,APAC,Mid-Market,Gaming,U201,2023-01-22 00:00:00,False,,USD
+A1174,Granite Ventures Pte Ltd,graniteventures.example.com,AMER,Enterprise,Government,U222,2025-08-15 00:00:00,False,,USD
+A1008,Bluewater Securities GmbH,bluewatersecurities.example.com,AMER,Mid-Market,Consulting,U203,2023-10-23 00:00:00,False,,EUR
+A1297,Redmond Labs GmbH,redmondlabs.example.com,EMEA,Public Sector,Gaming,U218,2023-01-19 00:00:00,False,,USD
+A1359,Thorne Analytics PLC,thorneanalytics.example.com,EMEA,SMB,Insurance,U208,2023-02-24 00:00:00,False,,EUR
+A1330,Solstice Advisors SA,solsticeadvisors.example.com,,Enterprise,Financial Services,U204,2026-02-01 00:00:00,False,,USD
+A1038,Dovetail Digital LLC,dovetaildigital.example.com,EMEA,SMB,Payments,U209,2025-02-20 00:00:00,False,,USD
+A1064,Stanhope Capital Inc,stanhopecapital.example.com,LATAM,SMB,Gaming,U216,2023-03-27 00:00:00,False,,USD
+A1372,Quarry Partners LLC,quarrypartners.example.com,AMER,Mid-Market,Gaming,U223,2025-06-02 00:00:00,False,,USD
+A1353,Halcyon Ventures Inc,halcyonventures.example.com,LATAM,Public Sector,Crypto Native,U202,2022-12-18 00:00:00,False,,GBP
+A1046,Fairlane Labs SA,fairlanelabs.example.com,AMER,Mid-Market,Government,U216,2023-12-29 00:00:00,False,,USD
+A1277,Zenith Networks Pte Ltd,zenithnetworks.example.com,APAC,SMB,Government,U211,2022-08-11 00:00:00,False,,USD
+A1293,Caldera Bancorp SA,calderabancorp.example.com,EMEA,Enterprise,Government,U203,2025-09-17 00:00:00,False,,BRL
+A1170,Fairlane Analytics Co,fairlaneanalytics.example.com,EMEA,Public Sector,Government,U220,2024-10-21 00:00:00,False,A1098,USD
+A1233,Bluewater Securities Ltd,bluewatersecurities.example.com,LATAM,Mid-Market,Government,U214,2023-11-17 00:00:00,False,,USD
+A1208,Marrow Labs PLC,marrowlabs.example.com,APAC,SMB,Crypto Native,U219,2023-08-06 00:00:00,False,,USD
+A1206,Keystone Systems SA,keystonesystems.example.com,,Mid-Market,Crypto Native,U216,2022-12-06 00:00:00,False,,USD
+A1109,Meridian Exchange Inc,meridianexchange.example.com,AMER,Mid-Market,Gaming,U215,2024-05-01 00:00:00,False,,EUR
+A9004,Quarry Payments Inc,quarrypayments.example.com,AMER,Mid-Market,Payments,U210,2026-04-19 00:00:00,True,,EUR
+A1075,Caldera Custody PLC,calderacustody.example.com,EMEA,Enterprise,Crypto Native,U211,2023-04-11 00:00:00,False,,EUR
+A1129,Inlet Advisors SA,inletadvisors.example.com,LATAM,SMB,Government,U215,2024-10-26 00:00:00,False,,USD
+A1006,Pinnacle Systems SA,pinnaclesystems.example.com,EMEA,Enterprise,Insurance,U220,2023-06-09 00:00:00,False,,USD
+A1053,Lumen Labs Pte Ltd,lumenlabs.example.com,EMEA,SMB,Financial Services,U212,2025-07-28 00:00:00,False,,USD
+A1285,Quarry Custody PLC,quarrycustody.example.com,AMER,SMB,Fintech,U214,2025-04-02 00:00:00,False,,SGD
+A1213,Fairlane Financial GmbH,fairlanefinancial.example.com,EMEA,Enterprise,Gaming,U215,2025-03-19 00:00:00,False,,USD
+A1220,Beltway Holdings Pte Ltd,beltwayholdings.example.com,EMEA,Enterprise,Crypto Native,U223,2024-11-12 00:00:00,False,,USD
+A1149,Bluewater Systems Pte Ltd,bluewatersystems.example.com,,SMB,Government,U212,2024-03-10 00:00:00,False,,EUR
+A1192,Caldera Capital Pte Ltd,calderacapital.example.com,EMEA,Enterprise,Consulting,U203,2024-06-24 00:00:00,False,A1043,USD
+A1343,Fairlane Group Pte Ltd,fairlanegroup.example.com,EMEA,,Government,U201,2023-06-23 00:00:00,False,,USD
+A9011,Lumen Holdings Ltd,lumenholdings.example.com,EMEA,Public Sector,Fintech,U208,2026-02-03 00:00:00,True,A1080,USD
+A1415,Marrow Advisors GmbH,marrowadvisors.example.com,LATAM,Mid-Market,Insurance,U201,2024-08-21 00:00:00,False,,USD
+A1234,Lattice Digital Pte Ltd,latticedigital.example.com,LATAM,Mid-Market,Government,U210,2025-06-19 00:00:00,False,,USD
+A1248,Keystone Trust Inc,keystonetrust.example.com,LATAM,Enterprise,Insurance,U217,2023-12-13 00:00:00,False,,USD
+A1074,Vertex Systems Pte Ltd,vertexsystems.example.com,EMEA,Mid-Market,Gaming,U213,2022-10-28 00:00:00,False,,GBP
+A1263,Halcyon Partners SA,halcyonpartners.example.com,AMER,Enterprise,Financial Services,U219,2025-09-13 00:00:00,False,,USD
+A1190,Dovetail Custody GmbH,dovetailcustody.example.com,AMER,Public Sector,Fintech,U207,2023-07-27 00:00:00,False,A1082,SGD
+A9605,Zenith Labs Pte Limited ,zenithlabs.example.com,APAC,Mid-Market,Crypto Native,U223,2023-06-29 00:00:00,False,,USD
+A9604,Dovetail Custody GmbH ,dovetailcustody.example.com,AMER,Public Sector,Fintech,U207,2023-07-27 00:00:00,False,A1082,SGD
+A9603,STANHOPE NETWORKS LIMITED,stanhopenetworks.example.com,AMER,Enterprise,Payments,U201,2026-03-05 00:00:00,False,,USD
+A1352,Ardent Group GmbH,ardentgroup.example.com,APAC,,Fintech,U200,2025-01-07 00:00:00,False,,EUR
+A1394,Riverbend Labs Pte Ltd,riverbendlabs.example.com,AMER,Mid-Market,Government,U202,2023-07-04 00:00:00,False,,USD
+A1160,Palisade Labs Inc,palisadelabs.example.com,AMER,Public Sector,Insurance,U209,2023-04-13 00:00:00,False,,USD
+A1375,Redmond Ventures PLC,redmondventures.example.com,AMER,Enterprise,Insurance,U216,2023-05-30 00:00:00,False,,EUR
+A1186,Sable Ventures GmbH,sableventures.example.com,EMEA,SMB,Fintech,U206,2025-01-25 00:00:00,False,,USD
+A1286,Cobalt Group Ltd,cobaltgroup.example.com,EMEA,Mid-Market,Government,U206,2023-06-05 00:00:00,False,,USD
+A1265,Gilder Labs Pte Ltd,gilderlabs.example.com,APAC,Enterprise,Gaming,U218,2025-04-30 00:00:00,False,,USD
+A1145,Harrow Labs Pte Ltd,harrowlabs.example.com,AMER,SMB,Crypto Native,U211,2023-07-03 00:00:00,False,,USD
+A1104,Quarry Partners Pte Ltd,quarrypartners.example.com,EMEA,SMB,Crypto Native,U218,2025-08-10 00:00:00,False,,USD
+A1288,Eastgate Holdings LLC,eastgateholdings.example.com,LATAM,Mid-Market,Payments,U200,2025-04-05 00:00:00,False,,EUR
+A1110,Redmond Systems Ltd,redmondsystems.example.com,EMEA,Mid-Market,Insurance,U203,2023-01-28 00:00:00,False,,EUR
+A1010,Auriga Ventures SA,aurigaventures.example.com,AMER,Mid-Market,Gaming,U219,2026-02-18 00:00:00,False,,EUR
+A1024,Cobalt Financial Ltd,cobaltfinancial.example.com,AMER,Enterprise,Government,U209,2022-08-31 00:00:00,False,,USD
+A1198,Westford Holdings LLC,westfordholdings.example.com,AMER,Mid-Market,Insurance,U217,2024-06-04 00:00:00,False,,USD
+A1017,Orbit Group LLC,orbitgroup.example.com,APAC,SMB,Gaming,U213,2023-05-12 00:00:00,False,,EUR
+A1049,Juniper Trust Pte Ltd,junipertrust.example.com,,Public Sector,Gaming,U218,2024-08-11 00:00:00,False,,USD
+A1102,Kestrel Exchange Ltd,kestrelexchange.example.com,EMEA,Mid-Market,Financial Services,U210,2024-07-31 00:00:00,False,,USD
+A1240,Northwind Capital Pte Ltd,northwindcapital.example.com,LATAM,SMB,Payments,U208,2022-07-30 00:00:00,False,,USD
+A1409,Eastgate Securities Pte Ltd,eastgatesecurities.example.com,EMEA,Public Sector,Insurance,U209,2022-11-19 00:00:00,False,,USD
+A1232,Northwind Group GmbH,northwindgroup.example.com,AMER,,Fintech,U210,2024-01-25 00:00:00,False,,USD
+A1223,Cobalt Capital Co,cobaltcapital.example.com,AMER,Mid-Market,Insurance,U204,2024-10-13 00:00:00,False,,USD
+A1398,Dovetail Labs Inc,dovetaillabs.example.com,LATAM,SMB,Crypto Native,U201,2024-08-18 00:00:00,False,,EUR
+A1410,Lattice Ventures Pte Ltd,latticeventures.example.com,EMEA,Mid-Market,Financial Services,U213,2025-09-18 00:00:00,False,,USD
+A1201,Westford Financial Co,westfordfinancial.example.com,LATAM,SMB,Fintech,U220,2026-01-31 00:00:00,False,,EUR
+A1284,Kestrel Bancorp GmbH,kestrelbancorp.example.com,AMER,Mid-Market,Payments,U214,2024-05-07 00:00:00,False,,GBP
+A1224,Auriga Exchange Co,aurigaexchange.example.com,EMEA,SMB,Financial Services,U220,2026-03-24 00:00:00,False,,USD
+A1121,Caldera Holdings Ltd,calderaholdings.example.com,LATAM,Mid-Market,Crypto Native,U219,2023-11-24 00:00:00,False,,USD
+A1340,Sable Advisors SA,sableadvisors.example.com,AMER,Public Sector,Financial Services,U213,2024-08-03 00:00:00,False,,USD
+A1003,Cobalt Bancorp LLC,cobaltbancorp.example.com,EMEA,,Insurance,U222,2024-12-09 00:00:00,False,,USD
+A1164,Lumen Securities GmbH,lumensecurities.example.com,APAC,Mid-Market,Fintech,U211,2024-09-18 00:00:00,False,,USD
+A1187,Juniper Partners Inc,juniperpartners.example.com,APAC,Mid-Market,Gaming,U202,2023-10-17 00:00:00,False,,USD
+A1361,Auriga Trust PLC,aurigatrust.example.com,LATAM,SMB,Insurance,U205,2026-03-16 00:00:00,False,,USD
+A1296,Vertex Digital LLC,vertexdigital.example.com,AMER,,Gaming,U205,2026-04-24 00:00:00,False,,USD
+A1268,Caldera Digital Pte Ltd,calderadigital.example.com,EMEA,SMB,Gaming,U210,2025-02-03 00:00:00,False,,GBP
+A1304,Ardent Exchange GmbH,ardentexchange.example.com,EMEA,Mid-Market,Financial Services,U209,2022-12-29 00:00:00,False,,USD
+A9013,Solstice Networks LLC,solsticenetworks.example.com,APAC,Enterprise,Financial Services,U206,2025-01-25 00:00:00,True,,USD
+A1161,Sable Securities LLC,sablesecurities.example.com,AMER,Public Sector,Fintech,U217,2024-06-28 00:00:00,False,,GBP
+A1396,Thorne Advisors Pte Ltd,thorneadvisors.example.com,,SMB,Gaming,U209,2024-11-15 00:00:00,False,,USD
+A1366,Cobalt Networks LLC,cobaltnetworks.example.com,EMEA,Mid-Market,Insurance,U214,2024-04-12 00:00:00,False,,USD
+A1176,Norsk Custody PLC,norskcustody.example.com,AMER,Public Sector,Crypto Native,U223,2026-02-27 00:00:00,False,A1093,BRL
+A1153,Stanhope Labs Co,stanhopelabs.example.com,APAC,Mid-Market,Payments,U215,2026-04-29 00:00:00,False,,GBP
+A1321,Umbra Capital GmbH,umbracapital.example.com,AMER,Enterprise,Payments,U213,2026-01-28 00:00:00,False,,USD
+A1328,Vantage Partners Inc,vantagepartners.example.com,EMEA,SMB,Consulting,U221,2024-07-29 00:00:00,False,,USD
+A1276,Inlet Capital GmbH,inletcapital.example.com,APAC,SMB,Crypto Native,U211,2024-10-31 00:00:00,False,,EUR
+A1310,Dovetail Ventures Inc,dovetailventures.example.com,EMEA,Mid-Market,Crypto Native,U208,2024-05-26 00:00:00,False,,USD
+A1112,Vertex Securities LLC,vertexsecurities.example.com,AMER,Mid-Market,Consulting,U208,2026-02-12 00:00:00,False,,USD
+A1403,Halcyon Trust Inc,halcyontrust.example.com,APAC,Mid-Market,Crypto Native,U204,2022-10-16 00:00:00,False,,USD
+A1245,Quarry Exchange LLC,quarryexchange.example.com,EMEA,SMB,Payments,U205,2022-08-15 00:00:00,False,,EUR
+A1200,Juniper Custody Inc,junipercustody.example.com,AMER,SMB,Gaming,U220,2023-05-05 00:00:00,False,,GBP
+A1141,Keystone Financial Pte Ltd,keystonefinancial.example.com,AMER,Mid-Market,Gaming,U215,2026-01-10 00:00:00,False,,BRL
+A1180,Sable Ventures PLC,sableventures.example.com,AMER,Mid-Market,Fintech,U208,2023-07-22 00:00:00,False,,EUR
+A1305,Norsk Payments LLC,norskpayments.example.com,AMER,Mid-Market,Insurance,U201,2026-01-04 00:00:00,False,,USD
+A1020,Bluewater Labs PLC,bluewaterlabs.example.com,,Mid-Market,Payments,U210,2025-02-25 00:00:00,False,,SGD
+A1282,Kestrel Holdings LLC,kestrelholdings.example.com,AMER,Enterprise,Consulting,U212,2024-02-05 00:00:00,False,,USD
+A1339,Northwind Payments LLC,northwindpayments.example.com,AMER,SMB,Consulting,U201,2024-10-04 00:00:00,False,,GBP
+A1362,Juniper Systems SA,junipersystems.example.com,AMER,Enterprise,Fintech,U208,2023-11-05 00:00:00,False,,USD
+A1264,Lattice Labs Co,latticelabs.example.com,,Enterprise,Financial Services,U220,2022-10-01 00:00:00,False,A1092,EUR
+A9505,Load Test Corp,northwind-example.com,AMER,SMB,Consulting,U200,2024-05-02 10:00:00,False,,USD
+A1095,Caldera Custody Ltd,calderacustody.example.com,AMER,SMB,Consulting,U203,2024-11-05 00:00:00,False,,USD
+A1007,Umbra Networks Inc,umbranetworks.example.com,LATAM,,Consulting,U209,2024-04-21 00:00:00,False,,USD
+A1244,Thorne Securities SA,thornesecurities.example.com,AMER,SMB,Insurance,U223,2023-08-29 00:00:00,False,,USD
+A1156,Fairlane Networks PLC,fairlanenetworks.example.com,EMEA,Enterprise,Financial Services,U209,2024-03-27 00:00:00,False,,USD
+A1041,Tessera Partners Inc,tesserapartners.example.com,APAC,SMB,Gaming,U222,2026-01-08 00:00:00,False,,USD
+A1387,Halcyon Securities PLC,halcyonsecurities.example.com,EMEA,Mid-Market,Consulting,U216,2023-09-26 00:00:00,False,,USD
+A1231,Meridian Networks Co,meridiannetworks.example.com,AMER,Enterprise,Fintech,U210,2024-03-26 00:00:00,False,,BRL
+A1015,Vantage Payments Ltd,vantagepayments.example.com,APAC,SMB,Crypto Native,U205,2022-08-13 00:00:00,False,,USD
+A1193,Granite Labs Ltd,granitelabs.example.com,EMEA,SMB,Crypto Native,U212,2026-05-17 00:00:00,False,,BRL
+A1000,Keystone Securities Pte Ltd,keystonesecurities.example.com,LATAM,,Crypto Native,U206,2023-12-05 00:00:00,False,,USD
+A1073,Tessera Securities SA,tesserasecurities.example.com,LATAM,Mid-Market,Government,U213,2023-05-27 00:00:00,False,,SGD
+A1068,Pinnacle Payments Ltd,pinnaclepayments.example.com,LATAM,Mid-Market,Crypto Native,U200,2023-03-09 00:00:00,False,,USD
+A1222,Pinnacle Holdings LLC,pinnacleholdings.example.com,APAC,Mid-Market,Fintech,U215,2024-06-19 00:00:00,False,,EUR
+A9508,Demo Account EMEA,example.test,AMER,SMB,Consulting,U200,2024-05-02 10:00:00,False,,USD
+A1147,Westford Advisors LLC,westfordadvisors.example.com,AMER,SMB,Insurance,U223,2023-06-22 00:00:00,False,,EUR
+A1218,Dovetail Custody PLC,dovetailcustody.example.com,EMEA,Enterprise,Gaming,U221,2025-09-13 00:00:00,False,,USD
+A1071,Westford Systems Pte Ltd,westfordsystems.example.com,LATAM,Public Sector,Payments,U218,2022-07-19 00:00:00,False,,USD
+A1181,Thorne Analytics SA,thorneanalytics.example.com,AMER,,Gaming,U203,2023-08-21 00:00:00,False,,USD
+A1380,Beltway Networks Ltd,beltwaynetworks.example.com,LATAM,SMB,Insurance,U221,2026-04-02 00:00:00,False,A1040,GBP
+A1357,Thorne Digital LLC,thornedigital.example.com,EMEA,Mid-Market,Financial Services,U220,2022-07-22 00:00:00,False,,GBP
+A1381,Dovetail Partners LLC,dovetailpartners.example.com,APAC,SMB,Payments,U211,2024-08-12 00:00:00,False,,EUR
+A1018,Dovetail Bancorp LLC,dovetailbancorp.example.com,AMER,Public Sector,Fintech,U206,2025-07-28 00:00:00,False,,EUR
+A1050,Solstice Bancorp SA,solsticebancorp.example.com,AMER,Mid-Market,Government,U215,2022-11-07 00:00:00,False,,EUR
+A1335,Quarry Financial Co,quarryfinancial.example.com,AMER,Enterprise,Government,U213,2023-03-31 00:00:00,False,,USD
+A1012,Harrow Group Pte Ltd,harrowgroup.example.com,,SMB,Insurance,U212,2025-09-19 00:00:00,False,,USD
+A1196,Pinnacle Group GmbH,pinnaclegroup.example.com,LATAM,Mid-Market,Financial Services,U211,2023-03-21 00:00:00,False,,GBP
+A1255,Granite Capital PLC,granitecapital.example.com,APAC,Enterprise,Crypto Native,U207,2025-11-15 00:00:00,False,,USD
+A1374,Gilder Advisors PLC,gilderadvisors.example.com,EMEA,Enterprise,Insurance,U222,2023-04-10 00:00:00,False,,SGD
+A1089,Vertex Digital Co,vertexdigital.example.com,LATAM,SMB,Government,U209,2024-06-30 00:00:00,False,,BRL
+A1086,Tessera Securities Co,tesserasecurities.example.com,EMEA,Mid-Market,Consulting,U217,2023-03-22 00:00:00,False,,USD
+A1052,Norsk Advisors Co,norskadvisors.example.com,AMER,Mid-Market,Payments,U206,2022-09-02 00:00:00,False,,USD
+A1383,Thorne Trust Ltd,thornetrust.example.com,AMER,Mid-Market,Consulting,U202,2022-11-01 00:00:00,False,,USD
+A1080,Keystone Networks GmbH,keystonenetworks.example.com,APAC,Public Sector,Payments,U223,2024-12-15 00:00:00,False,,USD
+A1214,Norsk Digital Pte Ltd,norskdigital.example.com,AMER,Mid-Market,Financial Services,U217,2023-04-23 00:00:00,False,,USD
+A1108,Quarry Systems Pte Ltd,quarrysystems.example.com,AMER,SMB,Financial Services,U210,2026-04-01 00:00:00,False,,USD
+A1002,Caldera Trust GmbH,calderatrust.example.com,APAC,SMB,Payments,U202,2025-01-18 00:00:00,False,,GBP
+A1127,Palisade Partners PLC,palisadepartners.example.com,,Enterprise,Fintech,U212,2023-04-27 00:00:00,False,,EUR
+A1278,Thorne Systems Pte Ltd,thornesystems.example.com,APAC,Mid-Market,Crypto Native,U217,2025-12-06 00:00:00,False,,SGD
+A9500,ZZ Test Account,example.test,AMER,SMB,Consulting,U200,2024-05-02 10:00:00,False,,USD
+A1271,Zenith Trust SA,zenithtrust.example.com,APAC,Mid-Market,Crypto Native,U209,2023-03-06 00:00:00,False,,USD
+A1301,Palisade Group LLC,palisadegroup.example.com,APAC,Enterprise,Fintech,U203,2024-08-22 00:00:00,False,,USD
+A1117,Halcyon Financial GmbH,halcyonfinancial.example.com,AMER,SMB,Gaming,U214,2022-09-19 00:00:00,False,,USD
+A1344,Norsk Capital Inc,norskcapital.example.com,LATAM,Mid-Market,Insurance,U200,2025-07-09 00:00:00,False,,USD
+A1066,Halcyon Holdings Inc,halcyonholdings.example.com,AMER,Mid-Market,Gaming,U207,2026-05-24 00:00:00,False,,USD
+A1275,Gilder Exchange Pte Ltd,gilderexchange.example.com,AMER,Mid-Market,Insurance,U205,2024-04-24 00:00:00,False,,USD
+A1405,Beltway Group GmbH,beltwaygroup.example.com,AMER,Enterprise,Crypto Native,U205,2026-02-15 00:00:00,False,,USD
+A1165,Norsk Payments GmbH,norskpayments.example.com,EMEA,Public Sector,Consulting,U209,2026-02-03 00:00:00,False,,USD
+A1324,Gilder Bancorp Pte Ltd,gilderbancorp.example.com,AMER,Enterprise,Consulting,U213,2024-07-30 00:00:00,False,,BRL
+A1342,Northwind Capital Ltd,northwindcapital.example.com,LATAM,Mid-Market,Financial Services,U219,2025-10-07 00:00:00,False,,BRL
+A1142,Northwind Bancorp LLC,northwindbancorp.example.com,EMEA,Public Sector,Fintech,U220,2022-08-24 00:00:00,False,,USD
+A1333,Ironclad Digital Co,ironcladdigital.example.com,EMEA,SMB,Gaming,U203,2024-02-08 00:00:00,False,,USD
+A1315,Tessera Partners LLC,tesserapartners.example.com,,Enterprise,Government,U204,2024-11-28 00:00:00,False,,USD
+A1132,Westford Financial LLC,westfordfinancial.example.com,LATAM,,Government,U206,2026-05-14 00:00:00,False,,BRL
+A1312,Quarry Trust SA,quarrytrust.example.com,EMEA,Mid-Market,Payments,U204,2023-03-20 00:00:00,False,,EUR
+A1083,Tessera Networks PLC,tesseranetworks.example.com,AMER,SMB,Consulting,U205,2026-02-13 00:00:00,False,,USD
+A1013,Tessera Financial Inc,tesserafinancial.example.com,EMEA,Public Sector,Financial Services,U220,2025-01-13 00:00:00,False,,BRL
+A9609,AURIGA SYSTEMS LLC,aurigasystems.example.com,AMER,Mid-Market,Payments,U205,2026-03-09 00:00:00,False,,BRL
+A1011,Umbra Partners PLC,umbrapartners.example.com,AMER,Enterprise,Fintech,U220,2023-08-19 00:00:00,False,,EUR
+A1334,Norsk Capital Ltd,norskcapital.example.com,AMER,SMB,Government,U210,2023-03-10 00:00:00,False,,BRL
+A1042,Vertex Networks LLC,vertexnetworks.example.com,EMEA,Public Sector,Crypto Native,U213,2026-03-31 00:00:00,False,,USD
+A1322,Orbit Labs Inc,orbitlabs.example.com,AMER,Mid-Market,Insurance,U214,2025-07-27 00:00:00,False,,USD
+A1057,Zenith Capital LLC,zenithcapital.example.com,LATAM,Enterprise,Payments,U223,2025-06-03 00:00:00,False,,USD
+A1225,Fairlane Ventures Pte Ltd,fairlaneventures.example.com,LATAM,SMB,Crypto Native,U203,2022-08-22 00:00:00,False,,USD
+A1077,Meridian Custody SA,meridiancustody.example.com,AMER,Mid-Market,Consulting,U221,2024-12-25 00:00:00,False,,USD
+A1047,Halcyon Holdings Co,halcyonholdings.example.com,APAC,SMB,Payments,U201,2024-11-19 00:00:00,False,,USD
+A9607,Cobalt Digital GmbH ,cobaltdigital.example.com,LATAM,Mid-Market,Government,U202,2023-07-27 00:00:00,False,,USD
+A1157,Umbra Payments LLC,umbrapayments.example.com,AMER,SMB,Payments,U203,2026-01-13 00:00:00,False,,EUR
+A9601,Tessera Exchange LLC ,tesseraexchange.example.com,EMEA,Public Sector,Fintech,U214,2024-05-28 00:00:00,False,,EUR
+A1085,Solstice Capital Pte Ltd,solsticecapital.example.com,EMEA,SMB,Financial Services,U223,2024-05-16 00:00:00,False,,USD
+A1005,Auriga Systems Co,aurigasystems.example.com,AMER,Mid-Market,Payments,U205,2024-09-18 00:00:00,False,,USD
+A1118,Redmond Trust SA,redmondtrust.example.com,EMEA,Public Sector,Government,U211,2022-11-26 00:00:00,False,,BRL
+A1349,Norsk Securities Inc,norsksecurities.example.com,AMER,SMB,Consulting,U206,2023-09-08 00:00:00,False,,USD
+A1023,Umbra Networks LLC,umbranetworks.example.com,EMEA,Public Sector,Consulting,U210,2024-10-29 00:00:00,False,,GBP
+A1391,Auriga Labs PLC,aurigalabs.example.com,EMEA,Public Sector,Financial Services,U205,2023-10-27 00:00:00,False,A1055,SGD
+A1144,Auriga Exchange Inc,aurigaexchange.example.com,AMER,SMB,Gaming,U212,2022-11-25 00:00:00,False,,USD
+A1253,Ironclad Securities PLC,ironcladsecurities.example.com,AMER,Mid-Market,Insurance,U216,2023-04-05 00:00:00,False,,BRL
+A9602,"Norsk Securities, Inc. ",norsksecurities.example.com,AMER,SMB,Consulting,U206,2023-09-08 00:00:00,False,,USD
+A1228,Marrow Ventures PLC,marrowventures.example.com,AMER,,Crypto Native,U218,2025-05-30 00:00:00,False,,USD
+A1019,Keystone Ventures Ltd,keystoneventures.example.com,EMEA,SMB,Insurance,U217,2024-08-07 00:00:00,False,,USD
+A1065,Quarry Payments Inc,quarrypayments.example.com,AMER,Mid-Market,Payments,U210,2026-04-19 00:00:00,False,,EUR
+A1067,Quarry Custody SA,quarrycustody.example.com,LATAM,SMB,Crypto Native,U220,2026-04-26 00:00:00,False,,USD
+A1364,Lumen Group Pte Ltd,lumengroup.example.com,AMER,Mid-Market,Fintech,U202,2025-05-07 00:00:00,False,,EUR
+A1250,Ironclad Securities Pte Ltd,ironcladsecurities.example.com,EMEA,Mid-Market,Government,U204,2025-04-27 00:00:00,False,,USD
+A1030,Cobalt Digital GmbH,cobaltdigital.example.com,LATAM,Mid-Market,Government,U202,2023-07-27 00:00:00,False,,USD
+A9606,MARROW VENTURES PLC,marrowventures.example.com,AMER,Mid-Market,Crypto Native,U218,2025-05-30 00:00:00,False,,USD
+A1191,Juniper Networks Ltd,junipernetworks.example.com,AMER,Mid-Market,Gaming,U220,2022-08-04 00:00:00,False,,EUR
+A9610,Tessera Partners LLC ,tesserapartners.example.com,AMER,Enterprise,Government,U204,2024-11-28 00:00:00,False,,USD
+A1377,Northwind Digital Ltd,northwinddigital.example.com,LATAM,Mid-Market,Crypto Native,U210,2023-08-10 00:00:00,False,,USD
+A1211,Norsk Financial LLC,norskfinancial.example.com,EMEA,SMB,Gaming,U207,2025-10-16 00:00:00,False,,BRL
+A9005,Ardent Holdings Pte Ltd,ardentholdings.example.com,APAC,Public Sector,Fintech,U206,2025-11-12 00:00:00,True,,USD
+A1128,Quarry Labs GmbH,quarrylabs.example.com,EMEA,Enterprise,Fintech,U208,2026-02-03 00:00:00,False,,USD
+A1236,Marrow Custody GmbH,marrowcustody.example.com,APAC,SMB,Fintech,U211,2024-12-24 00:00:00,False,,USD
+A1341,Bluewater Networks LLC,bluewaternetworks.example.com,LATAM,SMB,Fintech,U201,2022-11-23 00:00:00,False,,USD
+A1166,Kestrel Bancorp Inc,kestrelbancorp.example.com,AMER,Public Sector,Consulting,U215,2024-09-18 00:00:00,False,,GBP
+A9001,Dovetail Advisors Pte Ltd,dovetailadvisors.example.com,LATAM,Mid-Market,Insurance,U214,2026-02-13 00:00:00,True,,BRL
+A1313,Vertex Custody PLC,vertexcustody.example.com,EMEA,Mid-Market,Financial Services,U202,2023-04-06 00:00:00,False,,USD
+A1259,Dovetail Trust SA,dovetailtrust.example.com,AMER,Public Sector,Payments,U200,2022-09-02 00:00:00,False,,USD
+A1300,Beltway Holdings Co,beltwayholdings.example.com,EMEA,Public Sector,Consulting,U220,2022-11-13 00:00:00,False,,USD
+A1294,Sable Payments SA,sablepayments.example.com,AMER,,Payments,U208,2024-12-14 00:00:00,False,,EUR
+A1287,Tessera Financial LLC,tesserafinancial.example.com,APAC,SMB,Payments,U201,2026-05-02 00:00:00,False,,USD
+A1392,Kestrel Group Pte Ltd,kestrelgroup.example.com,AMER,SMB,Gaming,U203,2022-10-16 00:00:00,False,,EUR
+A1260,Auriga Bancorp SA,aurigabancorp.example.com,AMER,Mid-Market,Consulting,U220,2023-05-04 00:00:00,False,,USD
+A1125,Sable Group SA,sablegroup.example.com,APAC,Mid-Market,Consulting,U213,2025-12-26 00:00:00,False,,USD
+A1295,Norsk Ventures LLC,norskventures.example.com,,SMB,Insurance,U216,2023-10-22 00:00:00,False,,USD
+A1123,Orbit Trust Inc,orbittrust.example.com,AMER,Mid-Market,Consulting,U218,2025-10-05 00:00:00,False,,GBP
+A9002,Vertex Capital Ltd,vertexcapital.example.com,AMER,Mid-Market,Government,U220,2024-04-15 00:00:00,True,,USD
+A1246,Redmond Partners GmbH,redmondpartners.example.com,LATAM,Mid-Market,Crypto Native,U200,2023-04-23 00:00:00,False,,EUR
+A1290,Cobalt Capital LLC,cobaltcapital.example.com,APAC,Mid-Market,Gaming,U221,2022-10-13 00:00:00,False,,USD
+A1414,Redmond Systems SA,redmondsystems.example.com,AMER,Mid-Market,Government,U208,2024-04-18 00:00:00,False,,USD
+A1243,Lumen Capital GmbH,lumencapital.example.com,AMER,Public Sector,Crypto Native,U206,2023-11-21 00:00:00,False,,USD
+A9506,Northwind Labs (internal),example.test,AMER,SMB,Consulting,U200,2024-05-02 10:00:00,False,,USD
+A1027,Eastgate Financial SA,eastgatefinancial.example.com,APAC,,Crypto Native,U200,2025-06-13 00:00:00,False,,USD
+A1078,Fairlane Custody GmbH,fairlanecustody.example.com,LATAM,Mid-Market,Fintech,U212,2024-12-21 00:00:00,False,,USD
+A1111,Inlet Securities GmbH,inletsecurities.example.com,AMER,Enterprise,Crypto Native,U217,2025-01-10 00:00:00,False,,EUR
+A9501,Northwind QA Sandbox,northwind-example.com,AMER,SMB,Consulting,U200,2024-05-02 10:00:00,False,,USD
+A1148,Norsk Trust Co,norsktrust.example.com,,SMB,Gaming,U210,2023-04-22 00:00:00,False,,USD
+A1189,Orbit Trust LLC,orbittrust.example.com,EMEA,Mid-Market,Fintech,U210,2023-03-24 00:00:00,False,,USD
+A1395,Westford Networks Co,westfordnetworks.example.com,AMER,Enterprise,Gaming,U207,2025-07-31 00:00:00,False,,EUR
+A1150,Stanhope Capital GmbH,stanhopecapital.example.com,EMEA,Enterprise,Gaming,U206,2025-05-09 00:00:00,False,,EUR
+A1060,Orbit Advisors PLC,orbitadvisors.example.com,LATAM,Mid-Market,Financial Services,U203,2023-10-12 00:00:00,False,,USD
+A1261,Westford Payments PLC,westfordpayments.example.com,EMEA,Mid-Market,Payments,U214,2024-09-11 00:00:00,False,,USD
+A1158,Auriga Labs Ltd,aurigalabs.example.com,AMER,SMB,Consulting,U213,2023-07-18 00:00:00,False,,USD
+A1219,Stanhope Partners PLC,stanhopepartners.example.com,APAC,Mid-Market,Gaming,U214,2026-03-19 00:00:00,False,,USD
+A1373,Auriga Ventures Pte Ltd,aurigaventures.example.com,EMEA,SMB,Financial Services,U223,2024-01-23 00:00:00,False,,SGD
+A1331,Sable Capital Co,sablecapital.example.com,AMER,SMB,Government,U212,2023-06-11 00:00:00,False,,BRL
+A1001,Fairlane Exchange SA,fairlaneexchange.example.com,AMER,Mid-Market,Gaming,U220,2024-10-02 00:00:00,False,,USD
+A1350,Zenith Systems SA,zenithsystems.example.com,AMER,,Crypto Native,U201,2025-10-26 00:00:00,False,,USD
+A1346,Riverbend Exchange LLC,riverbendexchange.example.com,EMEA,Mid-Market,Consulting,U220,2025-11-08 00:00:00,False,,USD
+A9608,Sable Ventures Co ,sableventures.example.com,AMER,Mid-Market,Financial Services,U208,2024-12-07 00:00:00,False,,USD
+A1178,Granite Exchange Co,graniteexchange.example.com,EMEA,Mid-Market,Gaming,U203,2023-06-07 00:00:00,False,,USD
+A1363,Riverbend Bancorp LLC,riverbendbancorp.example.com,LATAM,Mid-Market,Fintech,U223,2022-11-17 00:00:00,False,,EUR
+A1298,Inlet Systems GmbH,inletsystems.example.com,LATAM,Enterprise,Gaming,U219,2025-06-26 00:00:00,False,,BRL
+A1413,Vertex Capital PLC,vertexcapital.example.com,AMER,SMB,Insurance,U210,2023-04-10 00:00:00,False,,USD
+A1385,Umbra Advisors Ltd,umbraadvisors.example.com,APAC,SMB,Crypto Native,U211,2026-05-18 00:00:00,False,,USD
+A1197,Sable Group Pte Ltd,sablegroup.example.com,EMEA,Public Sector,Financial Services,U215,2025-03-05 00:00:00,False,,USD
+A1009,Harrow Advisors SA,harrowadvisors.example.com,AMER,Enterprise,Insurance,U213,2023-09-15 00:00:00,False,,USD
+A1093,Thorne Bancorp LLC,thornebancorp.example.com,AMER,SMB,Financial Services,U216,2024-04-01 00:00:00,False,,USD
+A1133,Sable Labs Inc,sablelabs.example.com,LATAM,Mid-Market,Financial Services,U217,2023-04-26 00:00:00,False,,BRL
+A1029,Quarry Networks LLC,quarrynetworks.example.com,APAC,Enterprise,Payments,U222,2023-07-17 00:00:00,False,,GBP
+A1168,Keystone Labs PLC,keystonelabs.example.com,AMER,Mid-Market,Fintech,U200,2023-01-21 00:00:00,False,,USD
+A1307,Zenith Custody GmbH,zenithcustody.example.com,LATAM,Enterprise,Payments,U207,2024-05-25 00:00:00,False,,USD
+A1051,Bluewater Systems Ltd,bluewatersystems.example.com,LATAM,Mid-Market,Financial Services,U202,2025-11-14 00:00:00,False,,USD
+A1120,Stanhope Securities Pte Ltd,stanhopesecurities.example.com,AMER,SMB,Insurance,U202,2025-03-05 00:00:00,False,,USD
+A1402,Gilder Networks LLC,gildernetworks.example.com,AMER,SMB,Fintech,U213,2025-12-01 00:00:00,False,,USD
+A1154,Norsk Holdings Inc,norskholdings.example.com,APAC,Mid-Market,Crypto Native,U223,2024-02-09 00:00:00,False,,GBP
+A1026,Gilder Ventures LLC,gilderventures.example.com,EMEA,SMB,Government,U208,2024-12-30 00:00:00,False,,USD
+A1249,Vantage Trust PLC,vantagetrust.example.com,AMER,Mid-Market,Payments,U204,2024-03-29 00:00:00,False,,BRL
+A9010,Lattice Digital Ltd,latticedigital.example.com,EMEA,Mid-Market,Gaming,U221,2024-06-16 00:00:00,True,,USD
+A1163,Marrow Group LLC,marrowgroup.example.com,EMEA,Enterprise,Government,U206,2023-02-08 00:00:00,False,,USD
+A1360,Tessera Bancorp Ltd,tesserabancorp.example.com,AMER,,Payments,U209,2022-08-16 00:00:00,False,,USD
+A1115,Harrow Payments PLC,harrowpayments.example.com,APAC,Mid-Market,Consulting,U214,2025-01-09 00:00:00,False,,USD
+A1368,Lumen Labs SA,lumenlabs.example.com,AMER,Enterprise,Government,U201,2026-02-02 00:00:00,False,,USD
+A1400,Stanhope Networks Ltd,stanhopenetworks.example.com,AMER,,Payments,U201,2026-03-05 00:00:00,False,,USD
+A1267,Ironclad Digital GmbH,ironcladdigital.example.com,AMER,Mid-Market,Crypto Native,U218,2023-09-01 00:00:00,False,,USD
+A1205,Riverbend Custody Pte Ltd,riverbendcustody.example.com,AMER,Mid-Market,Fintech,U212,2025-05-28 00:00:00,False,,USD
+A9507,trial-sandbox-01,northwind-example.com,AMER,SMB,Consulting,U200,2024-05-02 10:00:00,False,,USD
+A1217,Stanhope Digital PLC,stanhopedigital.example.com,LATAM,SMB,Payments,U215,2026-03-17 00:00:00,False,,USD
+A9504,Acme Test,example.test,AMER,SMB,Consulting,U200,2024-05-02 10:00:00,False,,USD
+A1119,Eastgate Ventures SA,eastgateventures.example.com,AMER,Enterprise,Crypto Native,U207,2025-12-13 00:00:00,False,,USD
+A1280,Lumen Advisors PLC,lumenadvisors.example.com,EMEA,Enterprise,Government,U201,2024-07-28 00:00:00,False,A1085,SGD
+A1140,Dovetail Exchange GmbH,dovetailexchange.example.com,EMEA,Mid-Market,Crypto Native,U202,2023-06-22 00:00:00,False,,BRL
+A1076,Westford Labs GmbH,westfordlabs.example.com,LATAM,Enterprise,Gaming,U221,2023-02-02 00:00:00,False,,BRL
+A1185,Beltway Ventures SA,beltwayventures.example.com,APAC,SMB,Insurance,U210,2022-12-12 00:00:00,False,,USD
+A1169,Norsk Systems Ltd,norsksystems.example.com,LATAM,Enterprise,Insurance,U208,2023-06-13 00:00:00,False,,USD
+A1097,Redmond Networks PLC,redmondnetworks.example.com,AMER,SMB,Consulting,U223,2023-03-04 00:00:00,False,,USD
+A1257,Riverbend Advisors GmbH,riverbendadvisors.example.com,EMEA,Enterprise,Government,U213,2025-02-18 00:00:00,False,,BRL
+A1177,Westford Partners GmbH,westfordpartners.example.com,EMEA,Public Sector,Financial Services,U222,2023-11-15 00:00:00,False,,GBP
+A1058,Eastgate Analytics GmbH,eastgateanalytics.example.com,EMEA,SMB,Crypto Native,U207,2023-04-28 00:00:00,False,,USD
+A1116,Eastgate Securities PLC,eastgatesecurities.example.com,APAC,Mid-Market,Gaming,U207,2023-05-10 00:00:00,False,,EUR
+A1418,Redmond Custody GmbH,redmondcustody.example.com,APAC,Mid-Market,Gaming,U209,2022-12-25 00:00:00,False,,SGD
+A1308,Caldera Partners Ltd,calderapartners.example.com,AMER,Mid-Market,Financial Services,U215,2024-11-14 00:00:00,False,,BRL
+A1155,Keystone Digital PLC,keystonedigital.example.com,EMEA,Enterprise,Consulting,U223,2024-07-05 00:00:00,False,,BRL
+A1106,Quarry Labs Co,quarrylabs.example.com,LATAM,SMB,Consulting,U210,2023-07-28 00:00:00,False,,GBP
+A1159,Lattice Analytics Co,latticeanalytics.example.com,EMEA,,Payments,U200,2025-09-02 00:00:00,False,,USD
+A1376,Tessera Systems Inc,tesserasystems.example.com,AMER,Mid-Market,Consulting,U216,2022-10-06 00:00:00,False,,EUR
+A1367,Cobalt Payments Ltd,cobaltpayments.example.com,APAC,Enterprise,Fintech,U223,2024-04-04 00:00:00,False,,USD
+A1103,Granite Financial Ltd,granitefinancial.example.com,LATAM,Mid-Market,Government,U221,2024-09-06 00:00:00,False,,GBP
+A1152,Ardent Securities Inc,ardentsecurities.example.com,EMEA,SMB,Consulting,U217,2023-03-21 00:00:00,False,,USD
+A9502,DO NOT USE - Demo Co,example.test,AMER,SMB,Consulting,U200,2024-05-02 10:00:00,False,,USD
+A1355,Marrow Capital SA,marrowcapital.example.com,AMER,SMB,Fintech,U202,2023-10-27 00:00:00,False,,USD
+A1099,Ardent Digital Ltd,ardentdigital.example.com,AMER,Public Sector,Government,U204,2024-06-20 00:00:00,False,,EUR
+A1182,Marrow Group Co,marrowgroup.example.com,APAC,Public Sector,Gaming,U203,2023-10-19 00:00:00,False,,USD
+A1203,Harrow Partners Co,harrowpartners.example.com,AMER,Mid-Market,Fintech,U207,2022-09-12 00:00:00,False,,USD
+A1172,Marrow Networks Pte Ltd,marrownetworks.example.com,,Mid-Market,Gaming,U221,2024-09-10 00:00:00,False,,SGD
+A1122,Norsk Labs GmbH,norsklabs.example.com,EMEA,SMB,Financial Services,U206,2026-05-30 00:00:00,False,,USD
+A1212,Harrow Analytics LLC,harrowanalytics.example.com,AMER,Mid-Market,Payments,U200,2023-04-12 00:00:00,False,,USD
+A1369,Stanhope Labs SA,stanhopelabs.example.com,APAC,Mid-Market,Financial Services,U216,2023-05-08 00:00:00,False,,GBP
+A1138,Northwind Digital SA,northwinddigital.example.com,EMEA,Public Sector,Gaming,U210,2024-09-03 00:00:00,False,,USD
+A1241,Auriga Exchange Pte Ltd,aurigaexchange.example.com,EMEA,Public Sector,Insurance,U209,2023-08-30 00:00:00,False,,SGD
+A1412,Riverbend Payments GmbH,riverbendpayments.example.com,APAC,Mid-Market,Payments,U220,2023-10-24 00:00:00,False,,EUR
+A1107,Keystone Bancorp Ltd,keystonebancorp.example.com,AMER,Mid-Market,Government,U222,2024-10-29 00:00:00,False,,USD
+A1407,Auriga Systems LLC,aurigasystems.example.com,AMER,Mid-Market,Payments,U205,2026-03-09 00:00:00,False,,BRL
+A1081,Zenith Digital Ltd,zenithdigital.example.com,APAC,Mid-Market,Gaming,U205,2024-07-15 00:00:00,False,,USD
+A1025,Orbit Financial SA,orbitfinancial.example.com,APAC,Public Sector,Consulting,U217,2025-03-29 00:00:00,False,,USD
+A1254,Granite Exchange LLC,graniteexchange.example.com,EMEA,SMB,Payments,U200,2023-05-03 00:00:00,False,,USD
+A1146,Granite Labs PLC,granitelabs.example.com,LATAM,Mid-Market,Insurance,U223,2024-02-28 00:00:00,False,,USD
+A1338,Tessera Group Inc,tesseragroup.example.com,,Public Sector,Gaming,U217,2024-06-10 00:00:00,False,,EUR
+A1262,Eastgate Partners Ltd,eastgatepartners.example.com,APAC,,Insurance,U217,2023-01-19 00:00:00,False,,USD
+A1302,Lattice Bancorp LLC,latticebancorp.example.com,AMER,Mid-Market,Gaming,U201,2023-10-04 00:00:00,False,,EUR
+A9006,Bluewater Securities GmbH,bluewatersecurities.example.com,AMER,Mid-Market,Consulting,U203,2023-10-23 00:00:00,True,,EUR
+A1378,Fairlane Bancorp LLC,fairlanebancorp.example.com,EMEA,Enterprise,Financial Services,U215,2025-05-22 00:00:00,False,,USD
+A1092,Halcyon Financial PLC,halcyonfinancial.example.com,AMER,SMB,Consulting,U201,2025-02-10 00:00:00,False,,EUR
+A1230,Quarry Trust LLC,quarrytrust.example.com,AMER,Mid-Market,Fintech,U202,2026-05-11 00:00:00,False,,SGD
+A1221,Tessera Networks Inc,tesseranetworks.example.com,AMER,Enterprise,Government,U223,2024-06-27 00:00:00,False,,GBP
+A1252,Auriga Capital Pte Ltd,aurigacapital.example.com,,Mid-Market,Crypto Native,U222,2024-09-29 00:00:00,False,,USD
+A1028,Thorne Trust PLC,thornetrust.example.com,AMER,Public Sector,Insurance,U205,2024-04-10 00:00:00,False,,USD
+A1314,Zenith Labs Pte Ltd,zenithlabs.example.com,APAC,Mid-Market,Crypto Native,U211,2023-06-29 00:00:00,False,,USD
+A1151,Harrow Digital Co,harrowdigital.example.com,,Mid-Market,Consulting,U217,2023-04-03 00:00:00,False,A1089,SGD
+A1098,Inlet Custody SA,inletcustody.example.com,AMER,,Payments,U223,2024-12-10 00:00:00,False,,USD
+A1382,Fairlane Payments Co,fairlanepayments.example.com,,Mid-Market,Fintech,U216,2026-02-10 00:00:00,False,,GBP
+A1016,Fairlane Ventures Co,fairlaneventures.example.com,EMEA,,Consulting,U212,2022-11-05 00:00:00,False,,BRL
+A1087,Pinnacle Ventures Ltd,pinnacleventures.example.com,EMEA,Mid-Market,Crypto Native,U214,2024-06-15 00:00:00,False,,USD
+A1210,Tessera Trust GmbH,tesseratrust.example.com,,SMB,Insurance,U206,2023-05-23 00:00:00,False,,GBP

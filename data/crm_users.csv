@@ -1,0 +1,36 @@
+user_id,full_name,email,role,manager_user_id,region,team,hire_date,is_active
+U100,Farid Almeida,faridalmeida@northwind-example.com,Sales Manager,,AMER,Enterprise,2023-02-01,True
+U101,Sofia Lopes,sofialopes@northwind-example.com,Sales Manager,,EMEA,Mid-Market,2023-02-01,True
+U102,Ben Uchida,benuchida@northwind-example.com,Sales Manager,,APAC,SMB,2023-02-01,True
+U103,Ben Yamamoto,benyamamoto@northwind-example.com,Sales Manager,,LATAM,Public Sector,2023-02-01,True
+U104,Victor Henriques,victorhenriques@northwind-example.com,Sales Manager,,AMER,Enterprise,2023-02-01,True
+U200,Ben Esteves,benesteves@northwind-example.com,Account Executive,U100,AMER,Enterprise,2023-05-23,False
+U201,Joao Jardim,joaojardim@northwind-example.com,Account Executive,U101,EMEA,Mid-Market,2024-09-09,False
+U202,Hana Zanetti,hanazanetti@northwind-example.com,Account Executive,U102,APAC,SMB,2025-02-03,True
+U203,Elena Neves,elenaneves@northwind-example.com,Account Executive,U103,LATAM,Public Sector,2023-12-23,True
+U204,Camila Neves,camilaneves@northwind-example.com,Account Executive,U104,AMER,Enterprise,2024-02-13,True
+U205,Liam Almeida,liamalmeida@northwind-example.com,Account Executive,U100,AMER,Enterprise,2024-06-10,False
+U206,Yara Duarte,yaraduarte@northwind-example.com,Account Executive,U101,EMEA,Mid-Market,2025-06-03,True
+U207,Jae Barros,jaebarros@northwind-example.com,Account Executive,U102,APAC,SMB,2025-02-14,True
+U208,Elena Ferreira,elenaferreira@northwind-example.com,Account Executive,U103,LATAM,Public Sector,2025-11-27,True
+U209,Xavier Ibarra,xavieribarra@northwind-example.com,Account Executive,U104,AMER,Enterprise,2025-07-10,True
+U210,Camila Lopes,camilalopes@northwind-example.com,Account Executive,U100,AMER,Enterprise,2025-01-26,True
+U211,Joao Henriques,joaohenriques@northwind-example.com,Account Executive,U101,EMEA,Mid-Market,2025-03-14,True
+U212,Ursula Yamamoto,ursulayamamoto@northwind-example.com,Account Executive,U102,APAC,SMB,2025-01-23,False
+U213,Klara Uchida,klarauchida@northwind-example.com,Account Executive,U103,LATAM,Public Sector,2025-03-15,True
+U214,Dmitri Lopes,dmitrilopes@northwind-example.com,Account Executive,U104,AMER,Enterprise,2023-07-22,True
+U215,Jae Neves,jaeneves@northwind-example.com,Account Executive,U100,AMER,Enterprise,2024-08-01,True
+U216,Isabela Ibarra,isabelaibarra@northwind-example.com,Account Executive,U101,EMEA,Mid-Market,2025-06-16,True
+U217,Jae Jardim,jaejardim@northwind-example.com,Account Executive,U102,APAC,SMB,2023-08-31,True
+U218,Isabela Wagner,isabelawagner@northwind-example.com,Account Executive,U103,LATAM,Public Sector,2025-07-03,True
+U219,Tomas Klein,tomasklein@northwind-example.com,Account Executive,U104,AMER,Enterprise,2025-08-24,True
+U220,Pedro Ferreira,pedroferreira@northwind-example.com,Account Executive,U100,AMER,Enterprise,2023-12-07,False
+U221,Dmitri Klein,dmitriklein@northwind-example.com,Account Executive,U101,EMEA,Mid-Market,2023-11-14,True
+U222,Camila Almeida,camilaalmeida@northwind-example.com,Account Executive,U102,APAC,SMB,2023-01-02,True
+U223,Greta Henriques,gretahenriques@northwind-example.com,Account Executive,U103,LATAM,Public Sector,2024-05-07,True
+U300,Felipe Ramos,feliperamos@northwind-example.com,Customer Success Manager,U100,AMER,Customer Success,2024-03-01,True
+U301,Sofia Ramos,sofiaramos@northwind-example.com,Customer Success Manager,U100,EMEA,Customer Success,2024-03-01,True
+U302,Xavier Barros,xavierbarros@northwind-example.com,Customer Success Manager,U100,APAC,Customer Success,2024-03-01,True
+U303,Jae Esteves,jaeesteves@northwind-example.com,Customer Success Manager,U100,LATAM,Customer Success,2024-03-01,True
+U304,Hugo Queiroz,hugoqueiroz@northwind-example.com,Customer Success Manager,U100,AMER,Customer Success,2024-03-01,True
+U305,Bruno Machado,brunomachado@northwind-example.com,Customer Success Manager,U100,EMEA,Customer Success,2024-03-01,True

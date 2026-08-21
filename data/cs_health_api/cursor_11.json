@@ -1,0 +1,2401 @@
+{
+ "page": 11,
+ "page_size": 266,
+ "next_cursor": "cursor_12",
+ "results": [
+  {
+   "snapshot_id": "HS002667",
+   "account_id": "A1308",
+   "snapshot_month": "2025-08-01",
+   "health_score": 94.7,
+   "csm_user_id": "U302",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002668",
+   "account_id": "A1308",
+   "snapshot_month": "2025-09-01",
+   "health_score": 93.6,
+   "csm_user_id": "U302",
+   "renewal_risk": "Low",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002669",
+   "account_id": "A1308",
+   "snapshot_month": "2025-10-01",
+   "health_score": 85.6,
+   "csm_user_id": "U302",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002670",
+   "account_id": "A1308",
+   "snapshot_month": "2025-12-01",
+   "health_score": 97.7,
+   "csm_user_id": "U302",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002671",
+   "account_id": "A1308",
+   "snapshot_month": "2026-01-01",
+   "health_score": 91.5,
+   "csm_user_id": "U302",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002672",
+   "account_id": "A1308",
+   "snapshot_month": "2026-02-01",
+   "health_score": 95.1,
+   "csm_user_id": "U302",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002673",
+   "account_id": "A1308",
+   "snapshot_month": "2026-03-01",
+   "health_score": 98.8,
+   "csm_user_id": "U302",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002674",
+   "account_id": "A1308",
+   "snapshot_month": "2026-04-01",
+   "health_score": 99.0,
+   "csm_user_id": "U302",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002675",
+   "account_id": "A1308",
+   "snapshot_month": "2026-06-01",
+   "health_score": 92.3,
+   "csm_user_id": "U302",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002676",
+   "account_id": "A1033",
+   "snapshot_month": "2025-07-01",
+   "health_score": 52.8,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002677",
+   "account_id": "A1033",
+   "snapshot_month": "2025-08-01",
+   "health_score": 47.3,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002678",
+   "account_id": "A1033",
+   "snapshot_month": "2025-09-01",
+   "health_score": 51.3,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002679",
+   "account_id": "A1033",
+   "snapshot_month": "2025-10-01",
+   "health_score": 52.7,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002680",
+   "account_id": "A1033",
+   "snapshot_month": "2025-11-01",
+   "health_score": 49.7,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002681",
+   "account_id": "A1033",
+   "snapshot_month": "2025-12-01",
+   "health_score": 44.9,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002682",
+   "account_id": "A1033",
+   "snapshot_month": "2026-01-01",
+   "health_score": 48.9,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002683",
+   "account_id": "A1033",
+   "snapshot_month": "2026-02-01",
+   "health_score": 49.7,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002684",
+   "account_id": "A1033",
+   "snapshot_month": "2026-03-01",
+   "health_score": 50.5,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002685",
+   "account_id": "A1033",
+   "snapshot_month": "2026-04-01",
+   "health_score": 47.2,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002686",
+   "account_id": "A1033",
+   "snapshot_month": "2026-05-01",
+   "health_score": 59.3,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002687",
+   "account_id": "A1033",
+   "snapshot_month": "2026-06-01",
+   "health_score": 59.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002688",
+   "account_id": "A1043",
+   "snapshot_month": "2025-07-01",
+   "health_score": 69.3,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002689",
+   "account_id": "A1043",
+   "snapshot_month": "2025-08-01",
+   "health_score": 66.8,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002690",
+   "account_id": "A1043",
+   "snapshot_month": "2025-09-01",
+   "health_score": 65.5,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002691",
+   "account_id": "A1043",
+   "snapshot_month": "2025-10-01",
+   "health_score": 68.8,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002692",
+   "account_id": "A1043",
+   "snapshot_month": "2025-11-01",
+   "health_score": 74.1,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002693",
+   "account_id": "A1043",
+   "snapshot_month": "2025-12-01",
+   "health_score": 78.7,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002694",
+   "account_id": "A1043",
+   "snapshot_month": "2026-01-01",
+   "health_score": 88.0,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002695",
+   "account_id": "A1043",
+   "snapshot_month": "2026-02-01",
+   "health_score": 90.6,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002696",
+   "account_id": "A1043",
+   "snapshot_month": "2026-03-01",
+   "health_score": 95.0,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002697",
+   "account_id": "A1043",
+   "snapshot_month": "2026-04-01",
+   "health_score": 95.1,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002698",
+   "account_id": "A1043",
+   "snapshot_month": "2026-05-01",
+   "health_score": 96.2,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002699",
+   "account_id": "A1375",
+   "snapshot_month": "2025-07-01",
+   "health_score": 67.3,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002700",
+   "account_id": "A1375",
+   "snapshot_month": "2025-08-01",
+   "health_score": 66.6,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002701",
+   "account_id": "A1375",
+   "snapshot_month": "2025-09-01",
+   "health_score": 68.8,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002702",
+   "account_id": "A1375",
+   "snapshot_month": "2025-10-01",
+   "health_score": 67.0,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002703",
+   "account_id": "A1375",
+   "snapshot_month": "2025-11-01",
+   "health_score": 68.2,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002704",
+   "account_id": "A1375",
+   "snapshot_month": "2025-12-01",
+   "health_score": 69.6,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002705",
+   "account_id": "A1375",
+   "snapshot_month": "2026-01-01",
+   "health_score": 73.0,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002706",
+   "account_id": "A1375",
+   "snapshot_month": "2026-02-01",
+   "health_score": 83.5,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002707",
+   "account_id": "A1375",
+   "snapshot_month": "2026-03-01",
+   "health_score": 82.9,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002708",
+   "account_id": "A1375",
+   "snapshot_month": "2026-04-01",
+   "health_score": 82.8,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002709",
+   "account_id": "A1375",
+   "snapshot_month": "2026-05-01",
+   "health_score": 92.5,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002710",
+   "account_id": "A1029",
+   "snapshot_month": "2025-07-01",
+   "health_score": 89.0,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002711",
+   "account_id": "A1029",
+   "snapshot_month": "2025-08-01",
+   "health_score": 91.0,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002712",
+   "account_id": "A1029",
+   "snapshot_month": "2025-09-01",
+   "health_score": 88.7,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002713",
+   "account_id": "A1029",
+   "snapshot_month": "2025-10-01",
+   "health_score": 88.3,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002714",
+   "account_id": "A1029",
+   "snapshot_month": "2025-11-01",
+   "health_score": 89.0,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002715",
+   "account_id": "A1029",
+   "snapshot_month": "2025-12-01",
+   "health_score": 80.5,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002716",
+   "account_id": "A1029",
+   "snapshot_month": "2026-01-01",
+   "health_score": 82.6,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002717",
+   "account_id": "A1029",
+   "snapshot_month": "2026-02-01",
+   "health_score": 82.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002718",
+   "account_id": "A1029",
+   "snapshot_month": "2026-03-01",
+   "health_score": 72.4,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002719",
+   "account_id": "A1029",
+   "snapshot_month": "2026-04-01",
+   "health_score": 75.5,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002720",
+   "account_id": "A1029",
+   "snapshot_month": "2026-05-01",
+   "health_score": 71.3,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002721",
+   "account_id": "A1029",
+   "snapshot_month": "2026-06-01",
+   "health_score": 73.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002722",
+   "account_id": "A1353",
+   "snapshot_month": "2025-07-01",
+   "health_score": 78.0,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002723",
+   "account_id": "A1353",
+   "snapshot_month": "2025-08-01",
+   "health_score": 80.5,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002724",
+   "account_id": "A1353",
+   "snapshot_month": "2025-09-01",
+   "health_score": 84.5,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002725",
+   "account_id": "A1353",
+   "snapshot_month": "2025-10-01",
+   "health_score": 82.4,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002726",
+   "account_id": "A1353",
+   "snapshot_month": "2025-11-01",
+   "health_score": 88.5,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002727",
+   "account_id": "A1353",
+   "snapshot_month": "2025-12-01",
+   "health_score": 89.9,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002728",
+   "account_id": "A1353",
+   "snapshot_month": "2026-01-01",
+   "health_score": 89.5,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002729",
+   "account_id": "A1353",
+   "snapshot_month": "2026-02-01",
+   "health_score": 85.1,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002730",
+   "account_id": "A1353",
+   "snapshot_month": "2026-03-01",
+   "health_score": 85.1,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002731",
+   "account_id": "A1353",
+   "snapshot_month": "2026-04-01",
+   "health_score": 83.3,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002732",
+   "account_id": "A1353",
+   "snapshot_month": "2026-05-01",
+   "health_score": 79.6,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002733",
+   "account_id": "A1353",
+   "snapshot_month": "2026-06-01",
+   "health_score": 80.7,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002734",
+   "account_id": "A1217",
+   "snapshot_month": "2025-07-01",
+   "health_score": 59.5,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002735",
+   "account_id": "A1217",
+   "snapshot_month": "2025-08-01",
+   "health_score": 73.9,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 7
+  },
+  {
+   "snapshot_id": "HS002736",
+   "account_id": "A1217",
+   "snapshot_month": "2025-09-01",
+   "health_score": 63.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002737",
+   "account_id": "A1217",
+   "snapshot_month": "2025-10-01",
+   "health_score": 67.9,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002738",
+   "account_id": "A1217",
+   "snapshot_month": "2025-11-01",
+   "health_score": 73.7,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002739",
+   "account_id": "A1217",
+   "snapshot_month": "2025-12-01",
+   "health_score": 72.6,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002740",
+   "account_id": "A1217",
+   "snapshot_month": "2026-01-01",
+   "health_score": 71.9,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002741",
+   "account_id": "A1217",
+   "snapshot_month": "2026-02-01",
+   "health_score": 73.9,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002742",
+   "account_id": "A1217",
+   "snapshot_month": "2026-03-01",
+   "health_score": 78.0,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002743",
+   "account_id": "A1217",
+   "snapshot_month": "2026-04-01",
+   "health_score": 82.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002744",
+   "account_id": "A1217",
+   "snapshot_month": "2026-05-01",
+   "health_score": 83.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002745",
+   "account_id": "A1217",
+   "snapshot_month": "2026-06-01",
+   "health_score": 86.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002746",
+   "account_id": "A1028",
+   "snapshot_month": "2025-07-01",
+   "health_score": 76.7,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002747",
+   "account_id": "A1028",
+   "snapshot_month": "2025-08-01",
+   "health_score": 75.9,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002748",
+   "account_id": "A1028",
+   "snapshot_month": "2025-09-01",
+   "health_score": 70.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002749",
+   "account_id": "A1028",
+   "snapshot_month": "2025-10-01",
+   "health_score": 78.5,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002750",
+   "account_id": "A1028",
+   "snapshot_month": "2025-11-01",
+   "health_score": 88.1,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002751",
+   "account_id": "A1028",
+   "snapshot_month": "2025-12-01",
+   "health_score": 82.3,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002752",
+   "account_id": "A1028",
+   "snapshot_month": "2026-01-01",
+   "health_score": 77.1,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002753",
+   "account_id": "A1028",
+   "snapshot_month": "2026-02-01",
+   "health_score": 87.9,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002754",
+   "account_id": "A1028",
+   "snapshot_month": "2026-03-01",
+   "health_score": 84.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002755",
+   "account_id": "A1028",
+   "snapshot_month": "2026-06-01",
+   "health_score": 78.6,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002756",
+   "account_id": "A1245",
+   "snapshot_month": "2025-07-01",
+   "health_score": 69.5,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002757",
+   "account_id": "A1245",
+   "snapshot_month": "2025-08-01",
+   "health_score": 72.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002758",
+   "account_id": "A1245",
+   "snapshot_month": "2025-09-01",
+   "health_score": 64.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002759",
+   "account_id": "A1245",
+   "snapshot_month": "2025-11-01",
+   "health_score": 62.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002760",
+   "account_id": "A1245",
+   "snapshot_month": "2025-12-01",
+   "health_score": 62.4,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002761",
+   "account_id": "A1245",
+   "snapshot_month": "2026-01-01",
+   "health_score": 65.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002762",
+   "account_id": "A1245",
+   "snapshot_month": "2026-02-01",
+   "health_score": 65.3,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002763",
+   "account_id": "A1245",
+   "snapshot_month": "2026-03-01",
+   "health_score": 57.1,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002764",
+   "account_id": "A1245",
+   "snapshot_month": "2026-04-01",
+   "health_score": 58.8,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002765",
+   "account_id": "A1245",
+   "snapshot_month": "2026-05-01",
+   "health_score": 59.3,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002766",
+   "account_id": "A1245",
+   "snapshot_month": "2026-06-01",
+   "health_score": 54.2,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002767",
+   "account_id": "A1206",
+   "snapshot_month": "2025-07-01",
+   "health_score": 52.9,
+   "csm_user_id": "U300",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002768",
+   "account_id": "A1206",
+   "snapshot_month": "2025-08-01",
+   "health_score": 51.9,
+   "csm_user_id": "U300",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002769",
+   "account_id": "A1206",
+   "snapshot_month": "2025-09-01",
+   "health_score": 54.3,
+   "csm_user_id": "U300",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002770",
+   "account_id": "A1206",
+   "snapshot_month": "2025-11-01",
+   "health_score": 47.5,
+   "csm_user_id": "U300",
+   "renewal_risk": "Medium",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002771",
+   "account_id": "A1206",
+   "snapshot_month": "2025-12-01",
+   "health_score": 46.8,
+   "csm_user_id": "U300",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002772",
+   "account_id": "A1206",
+   "snapshot_month": "2026-01-01",
+   "health_score": 44.6,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002773",
+   "account_id": "A1206",
+   "snapshot_month": "2026-02-01",
+   "health_score": 34.1,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002774",
+   "account_id": "A1206",
+   "snapshot_month": "2026-03-01",
+   "health_score": 35.2,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002775",
+   "account_id": "A1206",
+   "snapshot_month": "2026-05-01",
+   "health_score": 47.9,
+   "csm_user_id": "U300",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002776",
+   "account_id": "A1206",
+   "snapshot_month": "2026-06-01",
+   "health_score": 44.4,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002777",
+   "account_id": "A1319",
+   "snapshot_month": "2025-07-01",
+   "health_score": 52.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002778",
+   "account_id": "A1319",
+   "snapshot_month": "2025-08-01",
+   "health_score": 54.7,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002779",
+   "account_id": "A1319",
+   "snapshot_month": "2025-09-01",
+   "health_score": 46.3,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002780",
+   "account_id": "A1319",
+   "snapshot_month": "2025-11-01",
+   "health_score": 25.6,
+   "csm_user_id": "U301",
+   "renewal_risk": "High",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002781",
+   "account_id": "A1319",
+   "snapshot_month": "2025-12-01",
+   "health_score": 25.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "High",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002782",
+   "account_id": "A1319",
+   "snapshot_month": "2026-01-01",
+   "health_score": 26.6,
+   "csm_user_id": "U301",
+   "renewal_risk": "High",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002783",
+   "account_id": "A1319",
+   "snapshot_month": "2026-02-01",
+   "health_score": 28.5,
+   "csm_user_id": "U301",
+   "renewal_risk": "High",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002784",
+   "account_id": "A1319",
+   "snapshot_month": "2026-03-01",
+   "health_score": 38.7,
+   "csm_user_id": "U301",
+   "renewal_risk": "High",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002785",
+   "account_id": "A1319",
+   "snapshot_month": "2026-04-01",
+   "health_score": 44.3,
+   "csm_user_id": "U301",
+   "renewal_risk": "High",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002786",
+   "account_id": "A1319",
+   "snapshot_month": "2026-05-01",
+   "health_score": 50.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002787",
+   "account_id": "A1319",
+   "snapshot_month": "2026-06-01",
+   "health_score": 52.1,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002788",
+   "account_id": "A1019",
+   "snapshot_month": "2025-08-01",
+   "health_score": 62.4,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002789",
+   "account_id": "A1019",
+   "snapshot_month": "2025-09-01",
+   "health_score": 67.1,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002790",
+   "account_id": "A1019",
+   "snapshot_month": "2025-11-01",
+   "health_score": 63.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002791",
+   "account_id": "A1019",
+   "snapshot_month": "2025-12-01",
+   "health_score": 63.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002792",
+   "account_id": "A1019",
+   "snapshot_month": "2026-01-01",
+   "health_score": 64.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002793",
+   "account_id": "A1019",
+   "snapshot_month": "2026-02-01",
+   "health_score": 70.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002794",
+   "account_id": "A1019",
+   "snapshot_month": "2026-03-01",
+   "health_score": 78.4,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002795",
+   "account_id": "A1019",
+   "snapshot_month": "2026-04-01",
+   "health_score": 71.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 6
+  },
+  {
+   "snapshot_id": "HS002796",
+   "account_id": "A1019",
+   "snapshot_month": "2026-05-01",
+   "health_score": 63.8,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002797",
+   "account_id": "A1019",
+   "snapshot_month": "2026-06-01",
+   "health_score": 55.9,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002798",
+   "account_id": "A1337",
+   "snapshot_month": "2025-08-01",
+   "health_score": 53.6,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002799",
+   "account_id": "A1337",
+   "snapshot_month": "2025-09-01",
+   "health_score": 47.4,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 6
+  },
+  {
+   "snapshot_id": "HS002800",
+   "account_id": "A1337",
+   "snapshot_month": "2025-10-01",
+   "health_score": 36.6,
+   "csm_user_id": "U301",
+   "renewal_risk": "High",
+   "open_tickets": 7
+  },
+  {
+   "snapshot_id": "HS002801",
+   "account_id": "A1337",
+   "snapshot_month": "2025-11-01",
+   "health_score": 47.7,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002802",
+   "account_id": "A1337",
+   "snapshot_month": "2025-12-01",
+   "health_score": 45.7,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002803",
+   "account_id": "A1337",
+   "snapshot_month": "2026-01-01",
+   "health_score": 63.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002804",
+   "account_id": "A1337",
+   "snapshot_month": "2026-02-01",
+   "health_score": 70.8,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002805",
+   "account_id": "A1337",
+   "snapshot_month": "2026-03-01",
+   "health_score": 83.4,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002806",
+   "account_id": "A1337",
+   "snapshot_month": "2026-04-01",
+   "health_score": 92.1,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002807",
+   "account_id": "A1337",
+   "snapshot_month": "2026-05-01",
+   "health_score": 94.2,
+   "csm_user_id": "U301",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002808",
+   "account_id": "A1150",
+   "snapshot_month": "2025-07-01",
+   "health_score": 69.7,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002809",
+   "account_id": "A1150",
+   "snapshot_month": "2025-08-01",
+   "health_score": 65.4,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002810",
+   "account_id": "A1150",
+   "snapshot_month": "2025-10-01",
+   "health_score": 61.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002811",
+   "account_id": "A1150",
+   "snapshot_month": "2025-11-01",
+   "health_score": 69.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002812",
+   "account_id": "A1150",
+   "snapshot_month": "2025-12-01",
+   "health_score": 79.9,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002813",
+   "account_id": "A1150",
+   "snapshot_month": "2026-01-01",
+   "health_score": 82.3,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002814",
+   "account_id": "A1150",
+   "snapshot_month": "2026-02-01",
+   "health_score": 68.8,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002815",
+   "account_id": "A1150",
+   "snapshot_month": "2026-03-01",
+   "health_score": 64.1,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002816",
+   "account_id": "A1150",
+   "snapshot_month": "2026-04-01",
+   "health_score": 58.7,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002817",
+   "account_id": "A1150",
+   "snapshot_month": "2026-05-01",
+   "health_score": 63.7,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002818",
+   "account_id": "A1150",
+   "snapshot_month": "2026-06-01",
+   "health_score": 60.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002819",
+   "account_id": "A1193",
+   "snapshot_month": "2025-09-01",
+   "health_score": 99.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002820",
+   "account_id": "A1193",
+   "snapshot_month": "2025-10-01",
+   "health_score": 99.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002821",
+   "account_id": "A1193",
+   "snapshot_month": "2025-11-01",
+   "health_score": 96.8,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 7
+  },
+  {
+   "snapshot_id": "HS002822",
+   "account_id": "A1193",
+   "snapshot_month": "2025-12-01",
+   "health_score": 99.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002823",
+   "account_id": "A1193",
+   "snapshot_month": "2026-01-01",
+   "health_score": 99.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002824",
+   "account_id": "A1193",
+   "snapshot_month": "2026-02-01",
+   "health_score": 99.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002825",
+   "account_id": "A1193",
+   "snapshot_month": "2026-03-01",
+   "health_score": 94.8,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002826",
+   "account_id": "A1193",
+   "snapshot_month": "2026-04-01",
+   "health_score": 98.3,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002827",
+   "account_id": "A1193",
+   "snapshot_month": "2026-05-01",
+   "health_score": 96.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002828",
+   "account_id": "A1193",
+   "snapshot_month": "2026-06-01",
+   "health_score": 94.8,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002829",
+   "account_id": "A1097",
+   "snapshot_month": "2025-07-01",
+   "health_score": 42.0,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002830",
+   "account_id": "A1097",
+   "snapshot_month": "2025-08-01",
+   "health_score": 26.9,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002831",
+   "account_id": "A1097",
+   "snapshot_month": "2025-09-01",
+   "health_score": 32.8,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002832",
+   "account_id": "A1097",
+   "snapshot_month": "2025-10-01",
+   "health_score": 40.2,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002833",
+   "account_id": "A1097",
+   "snapshot_month": "2025-11-01",
+   "health_score": 47.8,
+   "csm_user_id": "U300",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002834",
+   "account_id": "A1097",
+   "snapshot_month": "2025-12-01",
+   "health_score": 51.4,
+   "csm_user_id": "U300",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002835",
+   "account_id": "A1097",
+   "snapshot_month": "2026-02-01",
+   "health_score": 34.4,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002836",
+   "account_id": "A1097",
+   "snapshot_month": "2026-03-01",
+   "health_score": 34.2,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002837",
+   "account_id": "A1097",
+   "snapshot_month": "2026-04-01",
+   "health_score": 27.5,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002838",
+   "account_id": "A1097",
+   "snapshot_month": "2026-06-01",
+   "health_score": 26.9,
+   "csm_user_id": "U300",
+   "renewal_risk": "High",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002839",
+   "account_id": "A1031",
+   "snapshot_month": "2025-09-01",
+   "health_score": 81.0,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002840",
+   "account_id": "A1031",
+   "snapshot_month": "2025-10-01",
+   "health_score": 83.4,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002841",
+   "account_id": "A1031",
+   "snapshot_month": "2025-11-01",
+   "health_score": 87.5,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 8
+  },
+  {
+   "snapshot_id": "HS002842",
+   "account_id": "A1031",
+   "snapshot_month": "2026-01-01",
+   "health_score": 86.9,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002843",
+   "account_id": "A1031",
+   "snapshot_month": "2026-02-01",
+   "health_score": 86.5,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002844",
+   "account_id": "A1031",
+   "snapshot_month": "2026-03-01",
+   "health_score": 80.7,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002845",
+   "account_id": "A1031",
+   "snapshot_month": "2026-04-01",
+   "health_score": 75.7,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002846",
+   "account_id": "A1031",
+   "snapshot_month": "2026-05-01",
+   "health_score": 81.5,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002847",
+   "account_id": "A1031",
+   "snapshot_month": "2026-06-01",
+   "health_score": 75.8,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002848",
+   "account_id": "A1314",
+   "snapshot_month": "2025-08-01",
+   "health_score": 89.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002849",
+   "account_id": "A1314",
+   "snapshot_month": "2025-10-01",
+   "health_score": 87.2,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002850",
+   "account_id": "A1314",
+   "snapshot_month": "2025-11-01",
+   "health_score": 89.3,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002851",
+   "account_id": "A1314",
+   "snapshot_month": "2025-12-01",
+   "health_score": 85.8,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002852",
+   "account_id": "A1314",
+   "snapshot_month": "2026-01-01",
+   "health_score": 92.3,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002853",
+   "account_id": "A1314",
+   "snapshot_month": "2026-02-01",
+   "health_score": 99.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002854",
+   "account_id": "A1314",
+   "snapshot_month": "2026-03-01",
+   "health_score": 99.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002855",
+   "account_id": "A1314",
+   "snapshot_month": "2026-04-01",
+   "health_score": 91.8,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002856",
+   "account_id": "A1314",
+   "snapshot_month": "2026-05-01",
+   "health_score": 93.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002857",
+   "account_id": "A1314",
+   "snapshot_month": "2026-06-01",
+   "health_score": 99.0,
+   "csm_user_id": "U303",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002858",
+   "account_id": "A1235",
+   "snapshot_month": "2025-07-01",
+   "health_score": 39.9,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002859",
+   "account_id": "A1235",
+   "snapshot_month": "2025-08-01",
+   "health_score": 31.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002860",
+   "account_id": "A1235",
+   "snapshot_month": "2025-09-01",
+   "health_score": 41.6,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002861",
+   "account_id": "A1235",
+   "snapshot_month": "2025-11-01",
+   "health_score": 41.9,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002862",
+   "account_id": "A1235",
+   "snapshot_month": "2025-12-01",
+   "health_score": 39.1,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002863",
+   "account_id": "A1235",
+   "snapshot_month": "2026-01-01",
+   "health_score": 39.1,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002864",
+   "account_id": "A1235",
+   "snapshot_month": "2026-02-01",
+   "health_score": 35.2,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002865",
+   "account_id": "A1235",
+   "snapshot_month": "2026-03-01",
+   "health_score": 34.4,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002866",
+   "account_id": "A1235",
+   "snapshot_month": "2026-04-01",
+   "health_score": 32.7,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002867",
+   "account_id": "A1235",
+   "snapshot_month": "2026-05-01",
+   "health_score": 43.8,
+   "csm_user_id": "U303",
+   "renewal_risk": "High",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002868",
+   "account_id": "A1235",
+   "snapshot_month": "2026-06-01",
+   "health_score": 53.2,
+   "csm_user_id": "U303",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002869",
+   "account_id": "A1128",
+   "snapshot_month": "2025-07-01",
+   "health_score": 89.3,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002870",
+   "account_id": "A1128",
+   "snapshot_month": "2025-08-01",
+   "health_score": 88.6,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002871",
+   "account_id": "A1128",
+   "snapshot_month": "2025-09-01",
+   "health_score": 81.3,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002872",
+   "account_id": "A1128",
+   "snapshot_month": "2025-10-01",
+   "health_score": 70.1,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002873",
+   "account_id": "A1128",
+   "snapshot_month": "2025-12-01",
+   "health_score": 59.4,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002874",
+   "account_id": "A1128",
+   "snapshot_month": "2026-01-01",
+   "health_score": 54.8,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002875",
+   "account_id": "A1128",
+   "snapshot_month": "2026-02-01",
+   "health_score": 58.6,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002876",
+   "account_id": "A1128",
+   "snapshot_month": "2026-03-01",
+   "health_score": 60.2,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002877",
+   "account_id": "A1128",
+   "snapshot_month": "2026-05-01",
+   "health_score": 61.6,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002878",
+   "account_id": "A1128",
+   "snapshot_month": "2026-06-01",
+   "health_score": 64.3,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002879",
+   "account_id": "A1184",
+   "snapshot_month": "2025-08-01",
+   "health_score": 61.3,
+   "csm_user_id": "U305",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002880",
+   "account_id": "A1184",
+   "snapshot_month": "2025-09-01",
+   "health_score": 61.2,
+   "csm_user_id": "U305",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002881",
+   "account_id": "A1184",
+   "snapshot_month": "2025-10-01",
+   "health_score": 53.9,
+   "csm_user_id": "U305",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002882",
+   "account_id": "A1184",
+   "snapshot_month": "2025-11-01",
+   "health_score": 68.4,
+   "csm_user_id": "U305",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002883",
+   "account_id": "A1184",
+   "snapshot_month": "2025-12-01",
+   "health_score": 74.7,
+   "csm_user_id": "U305",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002884",
+   "account_id": "A1184",
+   "snapshot_month": "2026-01-01",
+   "health_score": 67.4,
+   "csm_user_id": "U305",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002885",
+   "account_id": "A1184",
+   "snapshot_month": "2026-02-01",
+   "health_score": 70.2,
+   "csm_user_id": "U305",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002886",
+   "account_id": "A1184",
+   "snapshot_month": "2026-03-01",
+   "health_score": 64.5,
+   "csm_user_id": "U305",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002887",
+   "account_id": "A1184",
+   "snapshot_month": "2026-04-01",
+   "health_score": 64.1,
+   "csm_user_id": "U305",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002888",
+   "account_id": "A1184",
+   "snapshot_month": "2026-05-01",
+   "health_score": 60.8,
+   "csm_user_id": "U305",
+   "renewal_risk": "Medium",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002889",
+   "account_id": "A1184",
+   "snapshot_month": "2026-06-01",
+   "health_score": 68.6,
+   "csm_user_id": "U305",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002890",
+   "account_id": "A1000",
+   "snapshot_month": "2025-08-01",
+   "health_score": 68.5,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002891",
+   "account_id": "A1000",
+   "snapshot_month": "2025-09-01",
+   "health_score": 69.3,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002892",
+   "account_id": "A1000",
+   "snapshot_month": "2025-11-01",
+   "health_score": 68.7,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002893",
+   "account_id": "A1000",
+   "snapshot_month": "2025-12-01",
+   "health_score": 68.8,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002894",
+   "account_id": "A1000",
+   "snapshot_month": "2026-01-01",
+   "health_score": 60.5,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002895",
+   "account_id": "A1000",
+   "snapshot_month": "2026-02-01",
+   "health_score": 63.6,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002896",
+   "account_id": "A1000",
+   "snapshot_month": "2026-03-01",
+   "health_score": 57.8,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002897",
+   "account_id": "A1000",
+   "snapshot_month": "2026-04-01",
+   "health_score": 59.3,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002898",
+   "account_id": "A1000",
+   "snapshot_month": "2026-05-01",
+   "health_score": 58.5,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002899",
+   "account_id": "A1000",
+   "snapshot_month": "2026-06-01",
+   "health_score": 50.4,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002900",
+   "account_id": "A1154",
+   "snapshot_month": "2025-07-01",
+   "health_score": 71.6,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002901",
+   "account_id": "A1154",
+   "snapshot_month": "2025-08-01",
+   "health_score": 65.8,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002902",
+   "account_id": "A1154",
+   "snapshot_month": "2025-09-01",
+   "health_score": 78.9,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002903",
+   "account_id": "A1154",
+   "snapshot_month": "2025-10-01",
+   "health_score": 91.8,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002904",
+   "account_id": "A1154",
+   "snapshot_month": "2025-11-01",
+   "health_score": 92.9,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002905",
+   "account_id": "A1154",
+   "snapshot_month": "2026-01-01",
+   "health_score": 92.9,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002906",
+   "account_id": "A1154",
+   "snapshot_month": "2026-02-01",
+   "health_score": 92.0,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002907",
+   "account_id": "A1154",
+   "snapshot_month": "2026-03-01",
+   "health_score": 99.0,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002908",
+   "account_id": "A1154",
+   "snapshot_month": "2026-05-01",
+   "health_score": 92.5,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002909",
+   "account_id": "A1154",
+   "snapshot_month": "2026-06-01",
+   "health_score": 97.4,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002910",
+   "account_id": "A1017",
+   "snapshot_month": "2025-08-01",
+   "health_score": 60.5,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 6
+  },
+  {
+   "snapshot_id": "HS002911",
+   "account_id": "A1017",
+   "snapshot_month": "2025-09-01",
+   "health_score": 69.5,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002912",
+   "account_id": "A1017",
+   "snapshot_month": "2025-10-01",
+   "health_score": 69.7,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002913",
+   "account_id": "A1017",
+   "snapshot_month": "2025-11-01",
+   "health_score": 74.7,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002914",
+   "account_id": "A1017",
+   "snapshot_month": "2025-12-01",
+   "health_score": 79.3,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002915",
+   "account_id": "A1017",
+   "snapshot_month": "2026-01-01",
+   "health_score": 82.8,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002916",
+   "account_id": "A1017",
+   "snapshot_month": "2026-03-01",
+   "health_score": 81.7,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002917",
+   "account_id": "A1017",
+   "snapshot_month": "2026-04-01",
+   "health_score": 81.6,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002918",
+   "account_id": "A1017",
+   "snapshot_month": "2026-05-01",
+   "health_score": 65.2,
+   "csm_user_id": "U304",
+   "renewal_risk": "Low",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002919",
+   "account_id": "A1017",
+   "snapshot_month": "2026-06-01",
+   "health_score": 60.0,
+   "csm_user_id": "U304",
+   "renewal_risk": "Medium",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002920",
+   "account_id": "A1035",
+   "snapshot_month": "2025-07-01",
+   "health_score": 81.4,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 4
+  },
+  {
+   "snapshot_id": "HS002921",
+   "account_id": "A1035",
+   "snapshot_month": "2025-08-01",
+   "health_score": 81.6,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002922",
+   "account_id": "A1035",
+   "snapshot_month": "2025-09-01",
+   "health_score": 88.0,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 0
+  },
+  {
+   "snapshot_id": "HS002923",
+   "account_id": "A1035",
+   "snapshot_month": "2025-10-01",
+   "health_score": 82.1,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002924",
+   "account_id": "A1035",
+   "snapshot_month": "2025-12-01",
+   "health_score": 82.2,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002925",
+   "account_id": "A1035",
+   "snapshot_month": "2026-01-01",
+   "health_score": 89.6,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002926",
+   "account_id": "A1035",
+   "snapshot_month": "2026-02-01",
+   "health_score": 96.5,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002927",
+   "account_id": "A1035",
+   "snapshot_month": "2026-03-01",
+   "health_score": 99.0,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002928",
+   "account_id": "A1035",
+   "snapshot_month": "2026-04-01",
+   "health_score": 98.7,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 3
+  },
+  {
+   "snapshot_id": "HS002929",
+   "account_id": "A1035",
+   "snapshot_month": "2026-06-01",
+   "health_score": 88.9,
+   "csm_user_id": "U300",
+   "renewal_risk": "Low",
+   "open_tickets": 5
+  },
+  {
+   "snapshot_id": "HS002930",
+   "account_id": "A1236",
+   "snapshot_month": "2025-07-01",
+   "health_score": 75.3,
+   "csm_user_id": "U305",
+   "renewal_risk": "Low",
+   "open_tickets": 2
+  },
+  {
+   "snapshot_id": "HS002931",
+   "account_id": "A1236",
+   "snapshot_month": "2025-08-01",
+   "health_score": 67.7,
+   "csm_user_id": "U305",
+   "renewal_risk": "Low",
+   "open_tickets": 1
+  },
+  {
+   "snapshot_id": "HS002932",
+   "account_id": "A1236",
+   "snapshot_month": "2025-09-01",
+   "health_score": 64.1,
+   "csm_user_id": "U305",
+   "renewal_risk": "Medium",
+   "open_tickets": 2
+  }
+ ]
+}
