@@ -1,0 +1,16 @@
+severity_rank,severity,issue,affected_rows,handling,escalate
+4,HIGH,Billing amendment overlap if replacement chain is ignored,52,Clip predecessor effective_end_date to successor term_start_date.,Finance/Billing Ops: confirm amendment semantics; do not use status alone for historical ARR.
+4,HIGH,Opportunity amount is zero or negative,19,Keep for count-based funnel metrics; set monetary value to NULL / exclude from dollar metrics.,Sales Ops: confirm whether any negatives are intended contractions/credits; otherwise correct CRM.
+4,HIGH,Opportunity close_date precedes created_date,37,Use first recorded Closed Won/Lost transition only when available; otherwise quarantine resolved close date.,Sales Ops: repair source close dates and validation rule.
+4,HIGH,Product events occur after the stated as-of date,240,Retain in raw; exclude from all as-of reporting and analysis.,Data Platform: determine whether synthetic extract leakage mirrors a real watermark problem.
+3,MEDIUM,CRM account domains are shared by multiple account records,218,Do not auto-merge: billing/account_id remains grain; surface duplicates for MDM review.,RevOps/Finance: decide legal-customer vs corporate-family identity and canonical account mapping.
+3,MEDIUM,CS API duplicate snapshot IDs across pages,40,Deduplicate on snapshot_id after pagination.,CS/Data Platform: API pagination should guarantee stable page boundaries.
+3,MEDIUM,CS API rate limit response encountered,1,Honor retry_after_seconds and retry_url; log both failed and successful calls.,Operational only unless retries exhaust.
+3,MEDIUM,Future-starting replacement subscriptions already marked Active,16,Do not use status as the historical activity predicate; use effective term dates.,Billing Ops: confirm whether Active means configured/current-record rather than economically effective.
+3,MEDIUM,Opportunity currency differs from account billing currency,23,Trust opportunity.currency for deal conversion; flag mismatch rather than overwrite.,Sales Ops/Finance: confirm allowed cross-currency deals.
+3,MEDIUM,Opportunity stage transitions occur after the stated as-of date,180,Exclude future transitions when reconstructing stage as of today.,Data Platform: enforce extraction watermark for point-in-time datasets.
+3,MEDIUM,Product event duplicate deliveries,3200,"Deduplicate on event_id, preserving first received copy.","Data Platform: expected for at-least-once bus, but monitor duplicate rate."
+2,LOW,CRM account missing region,33,Preserve as Unknown; never infer from rep region.,RevOps: backfill account region.
+2,LOW,CRM account missing segment,25,Preserve as Unknown; do not infer.,RevOps: backfill segmentation.
+2,LOW,CS monthly coverage is incomplete,207,Use latest available snapshot as of a date; never impute missing months into trends without labeling.,CS Ops: confirm expected scoring cadence.
+2,LOW,Opportunities have no stage-history rows,300,Use current CRM fields for current-state metrics; exclude from historical stage-conversion analysis where state cannot be reconstructed.,RevOps/Data Platform: determine stage-history retention gap.
